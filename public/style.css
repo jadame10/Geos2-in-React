@@ -8,10 +8,13 @@
   height: 50px;
 }
 .qn , .st, #user, #sub, #suby{
-height: 75px;
+height: 45px;
+margin-left: 10px;
+margin-top: 15px;
 }
 .qn{
 margin-top: 25px;
+padding-left: 10px;
 }
 #app div{
 width: 800px;
@@ -23,4 +26,6 @@ body{
 .cr{
   font-size: 20px;
   color: blue;
+  padding-left: 10px;
+  padding-top: 10px;
 }
