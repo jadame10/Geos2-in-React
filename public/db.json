@@ -1,0 +1,6005 @@
+{
+	"regioncentercoordinateslist":
+	[
+		{
+			"RegionID":"253",
+			"RegionName":"Al Arish, Egypt",
+			"CenterLatitude":"31.124743",
+			"CenterLongitude":"33.819649"
+		},
+		{
+			"RegionID":"254",
+			"RegionName":"Annaba, Algeria",
+			"CenterLatitude":"36.913933",
+			"CenterLongitude":"7.741176"
+		},
+		{
+			"RegionID":"255",
+			"RegionName":"Aranuka, Kiribati",
+			"CenterLatitude":"0.159000",
+			"CenterLongitude":"173.586502"
+		},
+		{
+			"RegionID":"257",
+			"RegionName":"Al Ain, United Arab Emirates",
+			"CenterLatitude":"24.231657",
+			"CenterLongitude":"55.740162"
+		},
+		{
+			"RegionID":"258",
+			"RegionName":"Anapa, Russia",
+			"CenterLatitude":"44.889820",
+			"CenterLongitude":"37.323132"
+		},
+		{
+			"RegionID":"259",
+			"RegionName":"Aarhus (and vicinity), Denmark",
+			"CenterLatitude":"56.156479",
+			"CenterLongitude":"10.210120"
+		},
+		{
+			"RegionID":"260",
+			"RegionName":"Altay, China",
+			"CenterLatitude":"47.852016",
+			"CenterLongitude":"87.968437"
+		},
+		{
+			"RegionID":"262",
+			"RegionName":"Abakan, Russia",
+			"CenterLatitude":"53.713905",
+			"CenterLongitude":"91.486000"
+		},
+		{
+			"RegionID":"264",
+			"RegionName":"Allentown, Pennsylvania, United States of America",
+			"CenterLatitude":"40.602180",
+			"CenterLongitude":"-75.471695"
+		},
+		{
+			"RegionID":"265",
+			"RegionName":"Abaiang, Kiribati",
+			"CenterLatitude":"1.825500",
+			"CenterLongitude":"172.901993"
+		},
+		{
+			"RegionID":"266",
+			"RegionName":"Abilene (and vicinity), Texas, United States of America",
+			"CenterLatitude":"32.449680",
+			"CenterLongitude":"-99.734268"
+		},
+		{
+			"RegionID":"267",
+			"RegionName":"Abidjan, Cote d'Ivoire",
+			"CenterLatitude":"5.327693",
+			"CenterLongitude":"-4.023339"
+		},
+		{
+			"RegionID":"268",
+			"RegionName":"Kebri Dar, Ethiopia",
+			"CenterLatitude":"6.728388",
+			"CenterLongitude":"44.286854"
+		},
+		{
+			"RegionID":"269",
+			"RegionName":"Ambler, Alaska, United States of America",
+			"CenterLatitude":"67.095634",
+			"CenterLongitude":"-157.899292"
+		},
+		{
+			"RegionID":"270",
+			"RegionName":"Bamaga, Queensland, Australia",
+			"CenterLatitude":"-10.856137",
+			"CenterLongitude":"142.432343"
+		},
+		{
+			"RegionID":"271",
+			"RegionName":"Albuquerque, New Mexico, United States of America",
+			"CenterLatitude":"35.083679",
+			"CenterLongitude":"-106.644653"
+		},
+		{
+			"RegionID":"272",
+			"RegionName":"Aberdeen, South Dakota, United States of America",
+			"CenterLatitude":"45.479618",
+			"CenterLongitude":"-98.534592"
+		},
+		{
+			"RegionID":"273",
+			"RegionName":"Abu Simbel, Egypt",
+			"CenterLatitude":"22.334728",
+			"CenterLongitude":"31.602713"
+		},
+		{
+			"RegionID":"274",
+			"RegionName":"Al Baha, Saudi Arabia",
+			"CenterLatitude":"20.015633",
+			"CenterLongitude":"41.462749"
+		},
+		{
+			"RegionID":"275",
+			"RegionName":"Abuja, Nigeria",
+			"CenterLatitude":"9.057622",
+			"CenterLongitude":"7.392182"
+		},
+		{
+			"RegionID":"276",
+			"RegionName":"Albury, New South Wales, Australia",
+			"CenterLatitude":"-36.082504",
+			"CenterLongitude":"146.912552"
+		},
+		{
+			"RegionID":"277",
+			"RegionName":"Albany (and vicinity), Georgia, United States of America",
+			"CenterLatitude":"31.576950",
+			"CenterLongitude":"-84.151199"
+		},
+		{
+			"RegionID":"278",
+			"RegionName":"Aberdeen, Scotland, United Kingdom",
+			"CenterLatitude":"57.147018",
+			"CenterLongitude":"-2.097490"
+		},
+		{
+			"RegionID":"279",
+			"RegionName":"Acapulco, Guerrero, Mexico",
+			"CenterLatitude":"16.849199",
+			"CenterLongitude":"-99.902000"
+		},
+		{
+			"RegionID":"280",
+			"RegionName":"Accra (and vicinity), Ghana",
+			"CenterLatitude":"5.603093",
+			"CenterLongitude":"-0.219895"
+		},
+		{
+			"RegionID":"281",
+			"RegionName":"Acandi, Colombia",
+			"CenterLatitude":"8.446742",
+			"CenterLongitude":"-77.279564"
+		},
+		{
+			"RegionID":"282",
+			"RegionName":"Lanzarote, Spain",
+			"CenterLatitude":"29.063347",
+			"CenterLongitude":"-13.628341"
+		},
+		{
+			"RegionID":"283",
+			"RegionName":"Altenrhein, Thal, Switzerland",
+			"CenterLatitude":"47.491062",
+			"CenterLongitude":"9.554854"
+		},
+		{
+			"RegionID":"284",
+			"RegionName":"Alderney, Channel Islands, United Kingdom",
+			"CenterLatitude":"49.717709",
+			"CenterLongitude":"-2.197935"
+		},
+		{
+			"RegionID":"285",
+			"RegionName":"Nantucket, Massachusetts, United States of America",
+			"CenterLatitude":"41.283760",
+			"CenterLongitude":"-70.097717"
+		},
+		{
+			"RegionID":"286",
+			"RegionName":"Waco (and vicinity), Texas, United States of America",
+			"CenterLatitude":"31.556782",
+			"CenterLongitude":"-97.131920"
+		},
+		{
+			"RegionID":"287",
+			"RegionName":"Eureka (and vicinity), California, United States of America",
+			"CenterLatitude":"40.802071",
+			"CenterLongitude":"-124.168159"
+		},
+		{
+			"RegionID":"288",
+			"RegionName":"Adana, Turkey",
+			"CenterLatitude":"36.985649",
+			"CenterLongitude":"35.325844"
+		},
+		{
+			"RegionID":"289",
+			"RegionName":"Addis Ababa (and vicinity), Ethiopia",
+			"CenterLatitude":"8.994484",
+			"CenterLongitude":"38.771084"
+		},
+		{
+			"RegionID":"291",
+			"RegionName":"Adak Island, Alaska, United States of America",
+			"CenterLatitude":"51.778774",
+			"CenterLongitude":"-176.712006"
+		},
+		{
+			"RegionID":"292",
+			"RegionName":"Adelaide, South Australia, Australia",
+			"CenterLatitude":"-34.920490",
+			"CenterLongitude":"138.598587"
+		},
+		{
+			"RegionID":"293",
+			"RegionName":"Kodiak, Alaska, United States of America",
+			"CenterLatitude":"57.789810",
+			"CenterLongitude":"-152.407440"
+		},
+		{
+			"RegionID":"294",
+			"RegionName":"Alldays, South Africa",
+			"CenterLatitude":"-22.678181",
+			"CenterLongitude":"29.105959"
+		},
+		{
+			"RegionID":"296",
+			"RegionName":"Abemama, Kiribati",
+			"CenterLatitude":"0.403113",
+			"CenterLongitude":"173.848755"
+		},
+		{
+			"RegionID":"299",
+			"RegionName":"Adler, Russia",
+			"CenterLatitude":"43.440502",
+			"CenterLongitude":"39.944092"
+		},
+		{
+			"RegionID":"301",
+			"RegionName":"Allakaket, Alaska, United States of America",
+			"CenterLatitude":"66.558495",
+			"CenterLongitude":"-152.652664"
+		},
+		{
+			"RegionID":"302",
+			"RegionName":"Akureyri, Iceland",
+			"CenterLatitude":"65.681770",
+			"CenterLongitude":"-18.090521"
+		},
+		{
+			"RegionID":"303",
+			"RegionName":"San Rafael, Argentina",
+			"CenterLatitude":"-34.651611",
+			"CenterLongitude":"-68.452377"
+		},
+		{
+			"RegionID":"304",
+			"RegionName":"Alta Floresta, Brazil",
+			"CenterLatitude":"-9.929124",
+			"CenterLongitude":"-55.898724"
+		},
+		{
+			"RegionID":"305",
+			"RegionName":"Agadir, Morocco",
+			"CenterLatitude":"30.475063",
+			"CenterLongitude":"-9.617333"
+		},
+		{
+			"RegionID":"306",
+			"RegionName":"Augsburg, Germany",
+			"CenterLatitude":"48.368950",
+			"CenterLongitude":"10.897840"
+		},
+		{
+			"RegionID":"307",
+			"RegionName":"Agen, France",
+			"CenterLatitude":"44.205299",
+			"CenterLongitude":"0.620620"
+		},
+		{
+			"RegionID":"308",
+			"RegionName":"Helsingborg, Sweden",
+			"CenterLatitude":"56.046719",
+			"CenterLongitude":"12.694717"
+		},
+		{
+			"RegionID":"309",
+			"RegionName":"Aguni, Japan",
+			"CenterLatitude":"26.584385",
+			"CenterLongitude":"127.228081"
+		},
+		{
+			"RegionID":"310",
+			"RegionName":"Wanigela, Papua New Guinea",
+			"CenterLatitude":"-10.044649",
+			"CenterLongitude":"148.217850"
+		},
+		{
+			"RegionID":"311",
+			"RegionName":"Angoon, Alaska, United States of America",
+			"CenterLatitude":"57.416832",
+			"CenterLongitude":"-134.301331"
+		},
+		{
+			"RegionID":"312",
+			"RegionName":"Malaga, Spain",
+			"CenterLatitude":"36.719460",
+			"CenterLongitude":"-4.421420"
+		},
+		{
+			"RegionID":"313",
+			"RegionName":"Agra, India",
+			"CenterLatitude":"27.181286",
+			"CenterLongitude":"78.002266"
+		},
+		{
+			"RegionID":"314",
+			"RegionName":"Augusta, Georgia, United States of America",
+			"CenterLatitude":"33.476009",
+			"CenterLongitude":"-81.967361"
+		},
+		{
+			"RegionID":"315",
+			"RegionName":"Aguascalientes, Aguascalientes, Mexico",
+			"CenterLatitude":"21.900732",
+			"CenterLongitude":"-102.300163"
+		},
+		{
+			"RegionID":"316",
+			"RegionName":"Acarigua, Venezuela",
+			"CenterLatitude":"9.570198",
+			"CenterLongitude":"-69.195702"
+		},
+		{
+			"RegionID":"317",
+			"RegionName":"Agatti Island, India",
+			"CenterLatitude":"10.847613",
+			"CenterLongitude":"72.177437"
+		},
+		{
+			"RegionID":"318",
+			"RegionName":"Aggeneys, South Africa",
+			"CenterLatitude":"-29.204975",
+			"CenterLongitude":"18.847075"
+		},
+		{
+			"RegionID":"319",
+			"RegionName":"Abha, Saudi Arabia",
+			"CenterLatitude":"18.243170",
+			"CenterLongitude":"42.534264"
+		},
+		{
+			"RegionID":"320",
+			"RegionName":"Athens (and vicinity), Georgia, United States of America",
+			"CenterLatitude":"33.958328",
+			"CenterLongitude":"-83.376228"
+		},
+		{
+			"RegionID":"321",
+			"RegionName":"Alghero, Italy",
+			"CenterLatitude":"40.557739",
+			"CenterLongitude":"8.315260"
+		},
+		{
+			"RegionID":"322",
+			"RegionName":"Al Hoceima, Morocco",
+			"CenterLatitude":"35.240437",
+			"CenterLongitude":"-3.929738"
+		},
+		{
+			"RegionID":"323",
+			"RegionName":"Alliance, Nebraska, United States of America",
+			"CenterLatitude":"42.064522",
+			"CenterLongitude":"-102.832916"
+		},
+		{
+			"RegionID":"325",
+			"RegionName":"Anderson, Indiana, United States of America",
+			"CenterLatitude":"40.102200",
+			"CenterLongitude":"-85.678177"
+		},
+		{
+			"RegionID":"326",
+			"RegionName":"Aiome, Papua New Guinea",
+			"CenterLatitude":"-5.143868",
+			"CenterLongitude":"144.725525"
+		},
+		{
+			"RegionID":"327",
+			"RegionName":"Ailuk, Marshall Islands",
+			"CenterLatitude":"10.217000",
+			"CenterLongitude":"169.983002"
+		},
+		{
+			"RegionID":"328",
+			"RegionName":"Wainwright, Alaska, United States of America",
+			"CenterLatitude":"70.642914",
+			"CenterLongitude":"-160.028397"
+		},
+		{
+			"RegionID":"329",
+			"RegionName":"Aripuana, Brazil",
+			"CenterLatitude":"-9.987401",
+			"CenterLongitude":"-59.297653"
+		},
+		{
+			"RegionID":"330",
+			"RegionName":"Arorae Island, Kiribati",
+			"CenterLatitude":"-2.642000",
+			"CenterLongitude":"176.820007"
+		},
+		{
+			"RegionID":"331",
+			"RegionName":"Aitutaki, Cook Islands",
+			"CenterLatitude":"-18.860760",
+			"CenterLongitude":"-159.783249"
+		},
+		{
+			"RegionID":"332",
+			"RegionName":"Atiu, Cook Islands",
+			"CenterLatitude":"-19.998501",
+			"CenterLongitude":"-158.112000"
+		},
+		{
+			"RegionID":"333",
+			"RegionName":"Atlantic City, New Jersey, United States of America",
+			"CenterLatitude":"39.363129",
+			"CenterLongitude":"-74.426170"
+		},
+		{
+			"RegionID":"334",
+			"RegionName":"Ajaccio, France",
+			"CenterLatitude":"41.918617",
+			"CenterLongitude":"8.736919"
+		},
+		{
+			"RegionID":"335",
+			"RegionName":"Jouf, Saudi Arabia",
+			"CenterLatitude":"29.785988",
+			"CenterLongitude":"39.888924"
+		},
+		{
+			"RegionID":"336",
+			"RegionName":"Anjouan, Comoros",
+			"CenterLatitude":"-12.231456",
+			"CenterLongitude":"44.374889"
+		},
+		{
+			"RegionID":"337",
+			"RegionName":"Arvidsjaur, Sweden",
+			"CenterLatitude":"65.680038",
+			"CenterLongitude":"19.129124"
+		},
+		{
+			"RegionID":"338",
+			"RegionName":"Aracaju, Brazil",
+			"CenterLatitude":"-10.913095",
+			"CenterLongitude":"-37.049324"
+		},
+		{
+			"RegionID":"340",
+			"RegionName":"Atka, Alaska, United States of America",
+			"CenterLatitude":"52.197502",
+			"CenterLongitude":"-174.192200"
+		},
+		{
+			"RegionID":"341",
+			"RegionName":"Akieni, Gabon",
+			"CenterLatitude":"-1.183141",
+			"CenterLongitude":"13.897154"
+		},
+		{
+			"RegionID":"342",
+			"RegionName":"Kufrah, Libya",
+			"CenterLatitude":"24.155573",
+			"CenterLongitude":"23.249777"
+		},
+		{
+			"RegionID":"343",
+			"RegionName":"Akiak, Alaska, United States of America",
+			"CenterLatitude":"60.923309",
+			"CenterLongitude":"-161.248077"
+		},
+		{
+			"RegionID":"344",
+			"RegionName":"Asahikawa, Japan",
+			"CenterLatitude":"43.758007",
+			"CenterLongitude":"142.369904"
+		},
+		{
+			"RegionID":"345",
+			"RegionName":"Akhiok, Alaska, United States of America",
+			"CenterLatitude":"56.945415",
+			"CenterLongitude":"-154.172119"
+		},
+		{
+			"RegionID":"346",
+			"RegionName":"Auckland, New Zealand",
+			"CenterLatitude":"-36.849060",
+			"CenterLongitude":"174.765381"
+		},
+		{
+			"RegionID":"347",
+			"RegionName":"King Salmon, Alaska, United States of America",
+			"CenterLatitude":"58.702011",
+			"CenterLongitude":"-156.676636"
+		},
+		{
+			"RegionID":"348",
+			"RegionName":"Anaktuvuk Pass, Alaska, United States of America",
+			"CenterLatitude":"68.149452",
+			"CenterLongitude":"-151.717041"
+		},
+		{
+			"RegionID":"350",
+			"RegionName":"Auki, Solomon Islands",
+			"CenterLatitude":"-8.771000",
+			"CenterLongitude":"160.702499"
+		},
+		{
+			"RegionID":"351",
+			"RegionName":"Aksu, China",
+			"CenterLatitude":"41.171001",
+			"CenterLongitude":"80.277000"
+		},
+		{
+			"RegionID":"352",
+			"RegionName":"Akulivik, Quebec, Canada",
+			"CenterLatitude":"60.878574",
+			"CenterLongitude":"-77.880440"
+		},
+		{
+			"RegionID":"353",
+			"RegionName":"Sittwe, Myanmar",
+			"CenterLatitude":"20.138000",
+			"CenterLongitude":"92.897499"
+		},
+		{
+			"RegionID":"354",
+			"RegionName":"Almaty, Kazakhstan",
+			"CenterLatitude":"43.241741",
+			"CenterLongitude":"76.947540"
+		},
+		{
+			"RegionID":"355",
+			"RegionName":"Albany, New York, United States of America",
+			"CenterLatitude":"42.650249",
+			"CenterLongitude":"-73.753578"
+		},
+		{
+			"RegionID":"356",
+			"RegionName":"Alicante, Spain",
+			"CenterLatitude":"38.346031",
+			"CenterLongitude":"-0.484080"
+		},
+		{
+			"RegionID":"358",
+			"RegionName":"Alta, Norway",
+			"CenterLatitude":"70.015274",
+			"CenterLongitude":"23.220158"
+		},
+		{
+			"RegionID":"359",
+			"RegionName":"Algiers, Algeria",
+			"CenterLatitude":"36.739101",
+			"CenterLongitude":"3.068917"
+		},
+		{
+			"RegionID":"360",
+			"RegionName":"Albany, Western Australia, Australia",
+			"CenterLatitude":"-35.027023",
+			"CenterLongitude":"117.883835"
+		},
+		{
+			"RegionID":"361",
+			"RegionName":"Alexander Bay, South Africa",
+			"CenterLatitude":"-28.622614",
+			"CenterLongitude":"16.481438"
+		},
+		{
+			"RegionID":"362",
+			"RegionName":"Asela, Ethiopia",
+			"CenterLatitude":"7.948719",
+			"CenterLongitude":"39.144329"
+		},
+		{
+			"RegionID":"363",
+			"RegionName":"Alamogordo, New Mexico, United States of America",
+			"CenterLatitude":"32.899799",
+			"CenterLongitude":"-105.960228"
+		},
+		{
+			"RegionID":"364",
+			"RegionName":"Waterloo (and vicinity), Iowa, United States of America",
+			"CenterLatitude":"42.493080",
+			"CenterLongitude":"-92.341507"
+		},
+		{
+			"RegionID":"366",
+			"RegionName":"Alamosa, Colorado, United States of America",
+			"CenterLatitude":"37.468208",
+			"CenterLongitude":"-105.865387"
+		},
+		{
+			"RegionID":"368",
+			"RegionName":"Walla Walla, Washington, United States of America",
+			"CenterLatitude":"46.105602",
+			"CenterLongitude":"-118.346321"
+		},
+		{
+			"RegionID":"369",
+			"RegionName":"Alexandria, Egypt",
+			"CenterLatitude":"31.046793",
+			"CenterLongitude":"29.774250"
+		},
+		{
+			"RegionID":"370",
+			"RegionName":"Alitak, Alaska, United States of America",
+			"CenterLatitude":"56.893909",
+			"CenterLongitude":"-154.286316"
+		},
+		{
+			"RegionID":"371",
+			"RegionName":"Amarillo (and vicinity), Texas, United States of America",
+			"CenterLatitude":"35.207600",
+			"CenterLongitude":"-101.835762"
+		},
+		{
+			"RegionID":"372",
+			"RegionName":"Ahmedabad, India",
+			"CenterLatitude":"23.022612",
+			"CenterLongitude":"72.571335"
+		},
+		{
+			"RegionID":"373",
+			"RegionName":"Arba Minch, Ethiopia",
+			"CenterLatitude":"6.035181",
+			"CenterLongitude":"37.564308"
+		},
+		{
+			"RegionID":"374",
+			"RegionName":"Mataram, Indonesia",
+			"CenterLatitude":"-8.587505",
+			"CenterLongitude":"116.129707"
+		},
+		{
+			"RegionID":"375",
+			"RegionName":"Amman (and vicinity), Jordan",
+			"CenterLatitude":"31.988249",
+			"CenterLongitude":"35.912960"
+		},
+		{
+			"RegionID":"376",
+			"RegionName":"Ampanihy, Madagascar",
+			"CenterLatitude":"-24.702053",
+			"CenterLongitude":"44.743355"
+		},
+		{
+			"RegionID":"377",
+			"RegionName":"Ambon, Indonesia",
+			"CenterLatitude":"-3.697635",
+			"CenterLongitude":"128.189819"
+		},
+		{
+			"RegionID":"378",
+			"RegionName":"Amsterdam, Netherlands",
+			"CenterLatitude":"52.373039",
+			"CenterLongitude":"4.892370"
+		},
+		{
+			"RegionID":"379",
+			"RegionName":"Ambatomainty, Madagascar",
+			"CenterLatitude":"-17.752439",
+			"CenterLongitude":"45.771984"
+		},
+		{
+			"RegionID":"380",
+			"RegionName":"Anniston, Alabama, United States of America",
+			"CenterLatitude":"33.657051",
+			"CenterLongitude":"-85.829697"
+		},
+		{
+			"RegionID":"381",
+			"RegionName":"Anchorage, Alaska, United States of America",
+			"CenterLatitude":"61.217567",
+			"CenterLongitude":"-149.892426"
+		},
+		{
+			"RegionID":"382",
+			"RegionName":"Antofagasta, Chile",
+			"CenterLatitude":"-23.651777",
+			"CenterLongitude":"-70.396736"
+		},
+		{
+			"RegionID":"383",
+			"RegionName":"Angouleme, France",
+			"CenterLatitude":"45.648899",
+			"CenterLongitude":"0.156750"
+		},
+		{
+			"RegionID":"384",
+			"RegionName":"Aniak, Alaska, United States of America",
+			"CenterLatitude":"61.582134",
+			"CenterLongitude":"-159.554688"
+		},
+		{
+			"RegionID":"385",
+			"RegionName":"Zanaga, Republic of the Congo",
+			"CenterLatitude":"-2.852913",
+			"CenterLongitude":"13.828632"
+		},
+		{
+			"RegionID":"386",
+			"RegionName":"Ankara, Turkey",
+			"CenterLatitude":"39.941956",
+			"CenterLongitude":"32.854652"
+		},
+		{
+			"RegionID":"387",
+			"RegionName":"Antalaha, Madagascar",
+			"CenterLatitude":"-14.900563",
+			"CenterLongitude":"50.277954"
+		},
+		{
+			"RegionID":"388",
+			"RegionName":"Antwerp, Belgium",
+			"CenterLatitude":"51.221268",
+			"CenterLongitude":"4.397140"
+		},
+		{
+			"RegionID":"389",
+			"RegionName":"St. John's, Antigua, Antigua and Barbuda",
+			"CenterLatitude":"17.139244",
+			"CenterLongitude":"-61.856339"
+		},
+		{
+			"RegionID":"390",
+			"RegionName":"Anvik, Alaska, United States of America",
+			"CenterLatitude":"62.643627",
+			"CenterLongitude":"-160.238434"
+		},
+		{
+			"RegionID":"391",
+			"RegionName":"Andenes, Andoy, Norway",
+			"CenterLatitude":"69.312881",
+			"CenterLongitude":"16.100636"
+		},
+		{
+			"RegionID":"392",
+			"RegionName":"Altenburg, Germany",
+			"CenterLatitude":"50.977020",
+			"CenterLongitude":"12.437294"
+		},
+		{
+			"RegionID":"393",
+			"RegionName":"Anshan, China",
+			"CenterLatitude":"41.123341",
+			"CenterLongitude":"122.991180"
+		},
+		{
+			"RegionID":"394",
+			"RegionName":"Ancona, Italy",
+			"CenterLatitude":"43.618797",
+			"CenterLongitude":"13.510880"
+		},
+		{
+			"RegionID":"395",
+			"RegionName":"Aomori, Japan",
+			"CenterLatitude":"40.827881",
+			"CenterLongitude":"140.735855"
+		},
+		{
+			"RegionID":"396",
+			"RegionName":"Karpathos, Greece",
+			"CenterLatitude":"35.507957",
+			"CenterLongitude":"27.213921"
+		},
+		{
+			"RegionID":"397",
+			"RegionName":"Paso de los Libres, Argentina",
+			"CenterLatitude":"-29.690182",
+			"CenterLongitude":"-57.134636"
+		},
+		{
+			"RegionID":"398",
+			"RegionName":"Altoona, Pennsylvania, United States of America",
+			"CenterLatitude":"40.515720",
+			"CenterLongitude":"-78.400833"
+		},
+		{
+			"RegionID":"399",
+			"RegionName":"Alor Setar, Malaysia",
+			"CenterLatitude":"6.125424",
+			"CenterLongitude":"100.366257"
+		},
+		{
+			"RegionID":"401",
+			"RegionName":"Naples, Florida, United States of America",
+			"CenterLatitude":"26.141720",
+			"CenterLongitude":"-81.796188"
+		},
+		{
+			"RegionID":"402",
+			"RegionName":"Nampula, Mozambique",
+			"CenterLatitude":"-15.117234",
+			"CenterLongitude":"39.256599"
+		},
+		{
+			"RegionID":"403",
+			"RegionName":"Alpena, Michigan, United States of America",
+			"CenterLatitude":"45.082394",
+			"CenterLongitude":"-83.470177"
+		},
+		{
+			"RegionID":"404",
+			"RegionName":"Apartado, Colombia",
+			"CenterLatitude":"7.902519",
+			"CenterLongitude":"-76.578499"
+		},
+		{
+			"RegionID":"405",
+			"RegionName":"Asapa, Papua New Guinea",
+			"CenterLatitude":"-5.025652",
+			"CenterLongitude":"144.766769"
+		},
+		{
+			"RegionID":"406",
+			"RegionName":"Apia, Samoa",
+			"CenterLatitude":"-13.830404",
+			"CenterLongitude":"-171.770142"
+		},
+		{
+			"RegionID":"407",
+			"RegionName":"Anqing, China",
+			"CenterLatitude":"30.620399",
+			"CenterLongitude":"116.598122"
+		},
+		{
+			"RegionID":"408",
+			"RegionName":"Qaisumah, Saudi Arabia",
+			"CenterLatitude":"28.301430",
+			"CenterLongitude":"46.163754"
+		},
+		{
+			"RegionID":"409",
+			"RegionName":"Aqaba, Jordan",
+			"CenterLatitude":"29.530668",
+			"CenterLongitude":"35.004757"
+		},
+		{
+			"RegionID":"410",
+			"RegionName":"Arequipa, Peru",
+			"CenterLatitude":"-16.403063",
+			"CenterLongitude":"-71.541122"
+		},
+		{
+			"RegionID":"411",
+			"RegionName":"Arctic Village, Alaska, United States of America",
+			"CenterLatitude":"68.122261",
+			"CenterLongitude":"-145.544434"
+		},
+		{
+			"RegionID":"412",
+			"RegionName":"Alor, Indonesia",
+			"CenterLatitude":"-8.293309",
+			"CenterLongitude":"124.757469"
+		},
+		{
+			"RegionID":"413",
+			"RegionName":"Arkhangelsk, Russia",
+			"CenterLatitude":"64.516472",
+			"CenterLongitude":"40.701107"
+		},
+		{
+			"RegionID":"414",
+			"RegionName":"Arica, Chile",
+			"CenterLatitude":"-18.614136",
+			"CenterLongitude":"-70.217392"
+		},
+		{
+			"RegionID":"415",
+			"RegionName":"Armidale, New South Wales, Australia",
+			"CenterLatitude":"-30.516468",
+			"CenterLongitude":"151.660889"
+		},
+		{
+			"RegionID":"416",
+			"RegionName":"Aragip, Papua New Guinea",
+			"CenterLatitude":"-4.117023",
+			"CenterLongitude":"142.920624"
+		},
+		{
+			"RegionID":"417",
+			"RegionName":"Watertown, New York, United States of America",
+			"CenterLatitude":"43.974663",
+			"CenterLongitude":"-75.909607"
+		},
+		{
+			"RegionID":"418",
+			"RegionName":"Minocqua, Wisconsin, United States of America",
+			"CenterLatitude":"45.870659",
+			"CenterLongitude":"-89.709915"
+		},
+		{
+			"RegionID":"419",
+			"RegionName":"N Zeto, Angola",
+			"CenterLatitude":"-7.239358",
+			"CenterLongitude":"12.864717"
+		},
+		{
+			"RegionID":"421",
+			"RegionName":"Ashgabat, Turkmenistan",
+			"CenterLatitude":"37.934547",
+			"CenterLongitude":"58.428955"
+		},
+		{
+			"RegionID":"422",
+			"RegionName":"Andros Town, Andros Island, Bahamas",
+			"CenterLatitude":"24.723598",
+			"CenterLongitude":"-77.784744"
+		},
+		{
+			"RegionID":"423",
+			"RegionName":"Aspen, Colorado, United States of America",
+			"CenterLatitude":"39.189079",
+			"CenterLongitude":"-106.819748"
+		},
+		{
+			"RegionID":"424",
+			"RegionName":"Astrakhan, Russia",
+			"CenterLatitude":"46.349625",
+			"CenterLongitude":"48.033932"
+		},
+		{
+			"RegionID":"425",
+			"RegionName":"Amami, Japan",
+			"CenterLatitude":"28.347694",
+			"CenterLongitude":"129.518448"
+		},
+		{
+			"RegionID":"426",
+			"RegionName":"Yamoussoukro, Cote d'Ivoire",
+			"CenterLatitude":"6.813636",
+			"CenterLongitude":"-5.264895"
+		},
+		{
+			"RegionID":"427",
+			"RegionName":"Asmara, Eritrea",
+			"CenterLatitude":"15.327526",
+			"CenterLongitude":"38.927029"
+		},
+		{
+			"RegionID":"428",
+			"RegionName":"Asosa, Ethiopia",
+			"CenterLatitude":"10.067499",
+			"CenterLongitude":"34.536110"
+		},
+		{
+			"RegionID":"429",
+			"RegionName":"Alice Springs, Northern Territory, Australia",
+			"CenterLatitude":"-23.699490",
+			"CenterLongitude":"133.881454"
+		},
+		{
+			"RegionID":"430",
+			"RegionName":"Kayseri, Turkey",
+			"CenterLatitude":"38.780727",
+			"CenterLongitude":"35.583530"
+		},
+		{
+			"RegionID":"431",
+			"RegionName":"Astoria, Oregon, United States of America",
+			"CenterLatitude":"46.189049",
+			"CenterLongitude":"-123.830963"
+		},
+		{
+			"RegionID":"432",
+			"RegionName":"Asuncion (and vicinity), Paraguay",
+			"CenterLatitude":"-25.287104",
+			"CenterLongitude":"-57.442310"
+		},
+		{
+			"RegionID":"434",
+			"RegionName":"Aswan, Egypt",
+			"CenterLatitude":"24.062040",
+			"CenterLongitude":"32.904854"
+		},
+		{
+			"RegionID":"436",
+			"RegionName":"Arthur's Town, Bahamas",
+			"CenterLatitude":"24.621990",
+			"CenterLongitude":"-75.682510"
+		},
+		{
+			"RegionID":"437",
+			"RegionName":"Atoifi, Solomon Islands",
+			"CenterLatitude":"-8.865000",
+			"CenterLongitude":"161.020004"
+		},
+		{
+			"RegionID":"438",
+			"RegionName":"Athens, Greece",
+			"CenterLatitude":"37.977009",
+			"CenterLongitude":"23.726170"
+		},
+		{
+			"RegionID":"439",
+			"RegionName":"Artigas, Uruguay",
+			"CenterLatitude":"-30.407206",
+			"CenterLongitude":"-56.476952"
+		},
+		{
+			"RegionID":"440",
+			"RegionName":"Atqasuk, Alaska, United States of America",
+			"CenterLatitude":"70.477112",
+			"CenterLongitude":"-157.430145"
+		},
+		{
+			"RegionID":"441",
+			"RegionName":"Atlanta, Georgia, United States of America",
+			"CenterLatitude":"33.756260",
+			"CenterLongitude":"-84.388489"
+		},
+		{
+			"RegionID":"442",
+			"RegionName":"Altamira, Brazil",
+			"CenterLatitude":"-3.204206",
+			"CenterLongitude":"-52.199745"
+		},
+		{
+			"RegionID":"443",
+			"RegionName":"Namatanai, Papua New Guinea",
+			"CenterLatitude":"-3.663097",
+			"CenterLongitude":"152.425995"
+		},
+		{
+			"RegionID":"444",
+			"RegionName":"Amritsar, India",
+			"CenterLatitude":"31.665468",
+			"CenterLongitude":"74.862457"
+		},
+		{
+			"RegionID":"446",
+			"RegionName":"Atmautluak, Alaska, United States of America",
+			"CenterLatitude":"60.829327",
+			"CenterLongitude":"-162.348419"
+		},
+		{
+			"RegionID":"447",
+			"RegionName":"Appleton - Lake Winnebago (and vicinity), Wisconsin, United States of America",
+			"CenterLatitude":"44.047379",
+			"CenterLongitude":"-88.440392"
+		},
+		{
+			"RegionID":"448",
+			"RegionName":"Watertown, South Dakota, United States of America",
+			"CenterLatitude":"44.936069",
+			"CenterLongitude":"-97.090454"
+		},
+		{
+			"RegionID":"449",
+			"RegionName":"Assiut, Egypt",
+			"CenterLatitude":"27.212965",
+			"CenterLongitude":"31.161398"
+		},
+		{
+			"RegionID":"450",
+			"RegionName":"Oranjestad, Aruba",
+			"CenterLatitude":"12.520075",
+			"CenterLongitude":"-70.036972"
+		},
+		{
+			"RegionID":"451",
+			"RegionName":"Arauca, Colombia",
+			"CenterLatitude":"7.058272",
+			"CenterLongitude":"-70.747383"
+		},
+		{
+			"RegionID":"452",
+			"RegionName":"Augusta (and vicinity), Maine, United States of America",
+			"CenterLatitude":"44.314713",
+			"CenterLongitude":"-69.774689"
+		},
+		{
+			"RegionID":"453",
+			"RegionName":"Abu Dhabi, United Arab Emirates",
+			"CenterLatitude":"24.486361",
+			"CenterLongitude":"54.365681"
+		},
+		{
+			"RegionID":"454",
+			"RegionName":"Ambunti, Papua New Guinea",
+			"CenterLatitude":"-4.215990",
+			"CenterLongitude":"142.816147"
+		},
+		{
+			"RegionID":"455",
+			"RegionName":"Alakanuk, Alaska, United States of America",
+			"CenterLatitude":"62.688248",
+			"CenterLongitude":"-164.656265"
+		},
+		{
+			"RegionID":"456",
+			"RegionName":"Aur, Marshall Islands",
+			"CenterLatitude":"8.248500",
+			"CenterLongitude":"171.096497"
+		},
+		{
+			"RegionID":"459",
+			"RegionName":"Aurillac, France",
+			"CenterLatitude":"44.929951",
+			"CenterLongitude":"2.445310"
+		},
+		{
+			"RegionID":"460",
+			"RegionName":"Austin, Texas, United States of America",
+			"CenterLatitude":"30.268049",
+			"CenterLongitude":"-97.742813"
+		},
+		{
+			"RegionID":"461",
+			"RegionName":"Wausau, Wisconsin, United States of America",
+			"CenterLatitude":"44.960670",
+			"CenterLongitude":"-89.627861"
+		},
+		{
+			"RegionID":"462",
+			"RegionName":"Araguaina, Brazil",
+			"CenterLatitude":"-7.189375",
+			"CenterLongitude":"-48.209988"
+		},
+		{
+			"RegionID":"463",
+			"RegionName":"Anatom, Vanuatu",
+			"CenterLatitude":"-20.204000",
+			"CenterLongitude":"169.817993"
+		},
+		{
+			"RegionID":"464",
+			"RegionName":"Ciego de Avila, Cuba",
+			"CenterLatitude":"21.861744",
+			"CenterLongitude":"-78.759697"
+		},
+		{
+			"RegionID":"465",
+			"RegionName":"Asheville, North Carolina, United States of America",
+			"CenterLatitude":"35.596382",
+			"CenterLongitude":"-82.553177"
+		},
+		{
+			"RegionID":"467",
+			"RegionName":"Wilkes-Barre, Pennsylvania, United States of America",
+			"CenterLatitude":"41.245911",
+			"CenterLongitude":"-75.881729"
+		},
+		{
+			"RegionID":"468",
+			"RegionName":"Avu Avu, Solomon Islands",
+			"CenterLatitude":"-9.836500",
+			"CenterLongitude":"160.382996"
+		},
+		{
+			"RegionID":"469",
+			"RegionName":"Aniwa, Vanuatu",
+			"CenterLatitude":"-19.245001",
+			"CenterLongitude":"169.604996"
+		},
+		{
+			"RegionID":"470",
+			"RegionName":"Awareh, Ethiopia",
+			"CenterLatitude":"8.258206",
+			"CenterLongitude":"44.164734"
+		},
+		{
+			"RegionID":"473",
+			"RegionName":"Alexandroupoli, Greece",
+			"CenterLatitude":"40.845589",
+			"CenterLongitude":"25.876259"
+		},
+		{
+			"RegionID":"475",
+			"RegionName":"Armenia, Colombia",
+			"CenterLatitude":"4.501417",
+			"CenterLongitude":"-75.722046"
+		},
+		{
+			"RegionID":"476",
+			"RegionName":"Spring Point, Acklins Island, Bahamas",
+			"CenterLatitude":"22.451033",
+			"CenterLongitude":"-73.981621"
+		},
+		{
+			"RegionID":"477",
+			"RegionName":"Akita, Japan",
+			"CenterLatitude":"39.711094",
+			"CenterLongitude":"140.221878"
+		},
+		{
+			"RegionID":"478",
+			"RegionName":"Axum, Ethiopia",
+			"CenterLatitude":"14.126541",
+			"CenterLongitude":"38.725174"
+		},
+		{
+			"RegionID":"479",
+			"RegionName":"Ayacucho, Peru",
+			"CenterLatitude":"-13.168638",
+			"CenterLongitude":"-74.207008"
+		},
+		{
+			"RegionID":"481",
+			"RegionName":"Antalya, Turkey",
+			"CenterLatitude":"36.886208",
+			"CenterLongitude":"30.706440"
+		},
+		{
+			"RegionID":"482",
+			"RegionName":"Aiyura, Papua New Guinea",
+			"CenterLatitude":"-8.639565",
+			"CenterLongitude":"146.460312"
+		},
+		{
+			"RegionID":"483",
+			"RegionName":"Amazon Bay, Papua New Guinea",
+			"CenterLatitude":"-10.291824",
+			"CenterLongitude":"149.331726"
+		},
+		{
+			"RegionID":"485",
+			"RegionName":"Andizhan, Uzbekistan",
+			"CenterLatitude":"40.630608",
+			"CenterLongitude":"68.273415"
+		},
+		{
+			"RegionID":"486",
+			"RegionName":"Kalamazoo (and vicinity), Michigan, United States of America",
+			"CenterLatitude":"42.291702",
+			"CenterLongitude":"-85.583160"
+		},
+		{
+			"RegionID":"487",
+			"RegionName":"Adrar, Algeria",
+			"CenterLatitude":"27.870331",
+			"CenterLongitude":"-0.271034"
+		},
+		{
+			"RegionID":"488",
+			"RegionName":"Bialla, Papua New Guinea",
+			"CenterLatitude":"-5.152124",
+			"CenterLongitude":"143.429245"
+		},
+		{
+			"RegionID":"489",
+			"RegionName":"Baguio, Philippines",
+			"CenterLatitude":"16.402437",
+			"CenterLongitude":"120.592354"
+		},
+		{
+			"RegionID":"490",
+			"RegionName":"Manama, Bahrain",
+			"CenterLatitude":"26.223598",
+			"CenterLongitude":"50.587608"
+		},
+		{
+			"RegionID":"491",
+			"RegionName":"Balif, Papua New Guinea",
+			"CenterLatitude":"-3.613909",
+			"CenterLongitude":"142.920624"
+		},
+		{
+			"RegionID":"492",
+			"RegionName":"Baku, Azerbaijan",
+			"CenterLatitude":"40.369495",
+			"CenterLongitude":"49.836845"
+		},
+		{
+			"RegionID":"493",
+			"RegionName":"Batman, Turkey",
+			"CenterLatitude":"37.876404",
+			"CenterLongitude":"41.175655"
+		},
+		{
+			"RegionID":"494",
+			"RegionName":"Barranquilla (and vicinity), Colombia",
+			"CenterLatitude":"11.001418",
+			"CenterLongitude":"-74.855034"
+		},
+		{
+			"RegionID":"495",
+			"RegionName":"Ballalae, Solomon Islands",
+			"CenterLatitude":"-6.992000",
+			"CenterLongitude":"155.882507"
+		},
+		{
+			"RegionID":"496",
+			"RegionName":"Baotou, China",
+			"CenterLatitude":"41.609013",
+			"CenterLongitude":"110.263779"
+		},
+		{
+			"RegionID":"497",
+			"RegionName":"Barnaul, Russia",
+			"CenterLatitude":"53.348030",
+			"CenterLongitude":"83.710503"
+		},
+		{
+			"RegionID":"498",
+			"RegionName":"Baia Mare, Romania",
+			"CenterLatitude":"47.542709",
+			"CenterLongitude":"23.763351"
+		},
+		{
+			"RegionID":"499",
+			"RegionName":"Balmaceda, Chile",
+			"CenterLatitude":"-45.935089",
+			"CenterLongitude":"-71.766617"
+		},
+		{
+			"RegionID":"500",
+			"RegionName":"Butaritari, Kiribati",
+			"CenterLatitude":"3.072000",
+			"CenterLongitude":"172.789993"
+		},
+		{
+			"RegionID":"501",
+			"RegionName":"Bhubaneshwar, India",
+			"CenterLatitude":"20.294256",
+			"CenterLongitude":"85.834068"
+		},
+		{
+			"RegionID":"502",
+			"RegionName":"Kasane, Botswana",
+			"CenterLatitude":"-17.841814",
+			"CenterLongitude":"25.196201"
+		},
+		{
+			"RegionID":"503",
+			"RegionName":"Battambang, Cambodia",
+			"CenterLatitude":"13.102572",
+			"CenterLongitude":"103.178879"
+		},
+		{
+			"RegionID":"504",
+			"RegionName":"Bario, Malaysia",
+			"CenterLatitude":"3.738000",
+			"CenterLongitude":"115.457001"
+		},
+		{
+			"RegionID":"507",
+			"RegionName":"Basse-Terre, Guadeloupe",
+			"CenterLatitude":"15.990774",
+			"CenterLongitude":"-61.686367"
+		},
+		{
+			"RegionID":"508",
+			"RegionName":"Baracoa, Cuba",
+			"CenterLatitude":"20.365126",
+			"CenterLongitude":"-74.519943"
+		},
+		{
+			"RegionID":"509",
+			"RegionName":"Bacolod, Philippines",
+			"CenterLatitude":"10.630577",
+			"CenterLongitude":"122.982292"
+		},
+		{
+			"RegionID":"510",
+			"RegionName":"Bryce Canyon, Utah, United States of America",
+			"CenterLatitude":"37.627010",
+			"CenterLongitude":"-112.172119"
+		},
+		{
+			"RegionID":"511",
+			"RegionName":"Barcaldine, Queensland, Australia",
+			"CenterLatitude":"-23.570246",
+			"CenterLongitude":"145.329788"
+		},
+		{
+			"RegionID":"512",
+			"RegionName":"Barra Colorado, Costa Rica",
+			"CenterLatitude":"10.751878",
+			"CenterLongitude":"-83.628304"
+		},
+		{
+			"RegionID":"513",
+			"RegionName":"Barcelona, Spain",
+			"CenterLatitude":"41.377850",
+			"CenterLongitude":"2.170550"
+		},
+		{
+			"RegionID":"514",
+			"RegionName":"Jinka, Ethiopia",
+			"CenterLatitude":"5.777606",
+			"CenterLongitude":"36.551319"
+		},
+		{
+			"RegionID":"515",
+			"RegionName":"Beloreck, Russia",
+			"CenterLatitude":"53.953419",
+			"CenterLongitude":"58.381371"
+		},
+		{
+			"RegionID":"516",
+			"RegionName":"Hamilton, Bermuda",
+			"CenterLatitude":"32.294235",
+			"CenterLongitude":"-64.781944"
+		},
+		{
+			"RegionID":"517",
+			"RegionName":"Bundaberg, Queensland, Australia",
+			"CenterLatitude":"-24.866268",
+			"CenterLongitude":"152.348694"
+		},
+		{
+			"RegionID":"519",
+			"RegionName":"Bird Island, Seychelles",
+			"CenterLatitude":"-3.719292",
+			"CenterLongitude":"55.210751"
+		},
+		{
+			"RegionID":"520",
+			"RegionName":"Banjarmasin, Indonesia",
+			"CenterLatitude":"-3.326410",
+			"CenterLongitude":"114.590088"
+		},
+		{
+			"RegionID":"521",
+			"RegionName":"Bondoukou, Cote d'Ivoire",
+			"CenterLatitude":"8.022128",
+			"CenterLongitude":"-2.775589"
+		},
+		{
+			"RegionID":"522",
+			"RegionName":"Bandung, Indonesia",
+			"CenterLatitude":"-6.918051",
+			"CenterLongitude":"107.640884"
+		},
+		{
+			"RegionID":"523",
+			"RegionName":"Bhadrapur, Nepal",
+			"CenterLatitude":"26.533098",
+			"CenterLongitude":"88.083145"
+		},
+		{
+			"RegionID":"524",
+			"RegionName":"Vadodara, India",
+			"CenterLatitude":"22.326616",
+			"CenterLongitude":"73.190521"
+		},
+		{
+			"RegionID":"525",
+			"RegionName":"Bridgeport, Connecticut, United States of America",
+			"CenterLatitude":"41.186993",
+			"CenterLongitude":"-73.196587"
+		},
+		{
+			"RegionID":"526",
+			"RegionName":"Brindisi, Italy",
+			"CenterLatitude":"40.637230",
+			"CenterLongitude":"17.945885"
+		},
+		{
+			"RegionID":"528",
+			"RegionName":"Bardufoss, Norway",
+			"CenterLatitude":"69.057632",
+			"CenterLongitude":"18.524178"
+		},
+		{
+			"RegionID":"529",
+			"RegionName":"Benbecula, Scotland, United Kingdom",
+			"CenterLatitude":"57.443375",
+			"CenterLongitude":"-7.307987"
+		},
+		{
+			"RegionID":"530",
+			"RegionName":"Bedford, Massachusetts, United States of America",
+			"CenterLatitude":"42.498856",
+			"CenterLongitude":"-71.278351"
+		},
+		{
+			"RegionID":"531",
+			"RegionName":"Benton Harbor, Michigan, United States of America",
+			"CenterLatitude":"42.115707",
+			"CenterLongitude":"-86.456779"
+		},
+		{
+			"RegionID":"532",
+			"RegionName":"Beica, Ethiopia",
+			"CenterLatitude":"9.378225",
+			"CenterLongitude":"34.543892"
+		},
+		{
+			"RegionID":"533",
+			"RegionName":"Berau, Indonesia",
+			"CenterLatitude":"2.158987",
+			"CenterLongitude":"117.599548"
+		},
+		{
+			"RegionID":"534",
+			"RegionName":"Belem (and vicinity), Brazil",
+			"CenterLatitude":"-1.355647",
+			"CenterLongitude":"-48.411705"
+		},
+		{
+			"RegionID":"535",
+			"RegionName":"Benghazi, Libya",
+			"CenterLatitude":"32.047359",
+			"CenterLongitude":"20.067554"
+		},
+		{
+			"RegionID":"536",
+			"RegionName":"Berlin, Germany",
+			"CenterLatitude":"52.513840",
+			"CenterLongitude":"13.350080"
+		},
+		{
+			"RegionID":"537",
+			"RegionName":"Brest, France",
+			"CenterLatitude":"48.387291",
+			"CenterLongitude":"-4.490040"
+		},
+		{
+			"RegionID":"538",
+			"RegionName":"Bethel, Alaska, United States of America",
+			"CenterLatitude":"60.793591",
+			"CenterLongitude":"-161.803925"
+		},
+		{
+			"RegionID":"539",
+			"RegionName":"Bedourie, Queensland, Australia",
+			"CenterLatitude":"-24.395382",
+			"CenterLongitude":"139.532059"
+		},
+		{
+			"RegionID":"540",
+			"RegionName":"Beersheba, Israel",
+			"CenterLatitude":"31.260439",
+			"CenterLongitude":"34.789474"
+		},
+		{
+			"RegionID":"541",
+			"RegionName":"Beira, Mozambique",
+			"CenterLatitude":"-19.834641",
+			"CenterLongitude":"34.869968"
+		},
+		{
+			"RegionID":"542",
+			"RegionName":"Beirut, Lebanon",
+			"CenterLatitude":"33.890923",
+			"CenterLongitude":"35.503159"
+		},
+		{
+			"RegionID":"543",
+			"RegionName":"Beru, Kiribati",
+			"CenterLatitude":"-1.321500",
+			"CenterLongitude":"175.979507"
+		},
+		{
+			"RegionID":"544",
+			"RegionName":"Bradford, Pennsylvania, United States of America",
+			"CenterLatitude":"41.915619",
+			"CenterLongitude":"-78.765388"
+		},
+		{
+			"RegionID":"545",
+			"RegionName":"Scottsbluff, Nebraska, United States of America",
+			"CenterLatitude":"41.863850",
+			"CenterLongitude":"-103.662773"
+		},
+		{
+			"RegionID":"546",
+			"RegionName":"Bakersfield (and vicinity), California, United States of America",
+			"CenterLatitude":"35.375790",
+			"CenterLongitude":"-119.018784"
+		},
+		{
+			"RegionID":"547",
+			"RegionName":"Bloemfontein, South Africa",
+			"CenterLatitude":"-29.114170",
+			"CenterLongitude":"26.216801"
+		},
+		{
+			"RegionID":"548",
+			"RegionName":"Buffalo Range, Zimbabwe",
+			"CenterLatitude":"-21.030533",
+			"CenterLongitude":"31.541105"
+		},
+		{
+			"RegionID":"549",
+			"RegionName":"Belfast, Northern Ireland, United Kingdom",
+			"CenterLatitude":"54.598480",
+			"CenterLongitude":"-5.930370"
+		},
+		{
+			"RegionID":"550",
+			"RegionName":"Bengbu, China",
+			"CenterLatitude":"33.122757",
+			"CenterLongitude":"117.317787"
+		},
+		{
+			"RegionID":"551",
+			"RegionName":"Bafoussam, Cameroon",
+			"CenterLatitude":"5.478750",
+			"CenterLongitude":"10.419198"
+		},
+		{
+			"RegionID":"552",
+			"RegionName":"Bucaramanga (and vicinity), Colombia",
+			"CenterLatitude":"7.132001",
+			"CenterLongitude":"-73.114227"
+		},
+		{
+			"RegionID":"554",
+			"RegionName":"Bridgetown, Barbados",
+			"CenterLatitude":"13.104755",
+			"CenterLongitude":"-59.600567"
+		},
+		{
+			"RegionID":"555",
+			"RegionName":"Borgarfjordur Eystri, Iceland",
+			"CenterLatitude":"65.547203",
+			"CenterLongitude":"-13.782626"
+		},
+		{
+			"RegionID":"556",
+			"RegionName":"Binghamton, New York, United States of America",
+			"CenterLatitude":"42.098869",
+			"CenterLongitude":"-75.912369"
+		},
+		{
+			"RegionID":"557",
+			"RegionName":"Bergen, Norway",
+			"CenterLatitude":"60.393520",
+			"CenterLongitude":"5.324640"
+		},
+		{
+			"RegionID":"558",
+			"RegionName":"Bangor, Maine, United States of America",
+			"CenterLatitude":"44.801640",
+			"CenterLongitude":"-68.771240"
+		},
+		{
+			"RegionID":"560",
+			"RegionName":"Bergamo, Italy",
+			"CenterLatitude":"45.695068",
+			"CenterLongitude":"9.669701"
+		},
+		{
+			"RegionID":"561",
+			"RegionName":"Bar Harbor (and vicinity), Maine, United States of America",
+			"CenterLatitude":"44.389771",
+			"CenterLongitude":"-68.204750"
+		},
+		{
+			"RegionID":"562",
+			"RegionName":"Blenheim, New Zealand",
+			"CenterLatitude":"-41.514111",
+			"CenterLongitude":"173.956787"
+		},
+		{
+			"RegionID":"563",
+			"RegionName":"Bisha, Saudi Arabia",
+			"CenterLatitude":"19.971889",
+			"CenterLongitude":"42.598244"
+		},
+		{
+			"RegionID":"564",
+			"RegionName":"Bahia Blanca, Argentina",
+			"CenterLatitude":"-38.719769",
+			"CenterLongitude":"-62.263981"
+		},
+		{
+			"RegionID":"565",
+			"RegionName":"Bhuj, India",
+			"CenterLatitude":"23.243643",
+			"CenterLongitude":"69.677246"
+		},
+		{
+			"RegionID":"567",
+			"RegionName":"Birmingham, Alabama, United States of America",
+			"CenterLatitude":"33.519211",
+			"CenterLongitude":"-86.808868"
+		},
+		{
+			"RegionID":"569",
+			"RegionName":"Bhopal, India",
+			"CenterLatitude":"23.236809",
+			"CenterLongitude":"77.405609"
+		},
+		{
+			"RegionID":"570",
+			"RegionName":"Broken Hill, New South Wales, Australia",
+			"CenterLatitude":"-32.240547",
+			"CenterLongitude":"141.534698"
+		},
+		{
+			"RegionID":"571",
+			"RegionName":"Bharatpur, Nepal",
+			"CenterLatitude":"27.643126",
+			"CenterLongitude":"84.390945"
+		},
+		{
+			"RegionID":"572",
+			"RegionName":"Bathurst, New South Wales, Bathurst Regional Council, Australia",
+			"CenterLatitude":"-33.419281",
+			"CenterLongitude":"149.577499"
+		},
+		{
+			"RegionID":"573",
+			"RegionName":"Bhavnagar, India",
+			"CenterLatitude":"21.756266",
+			"CenterLongitude":"72.138718"
+		},
+		{
+			"RegionID":"574",
+			"RegionName":"Bahawalpur, Pakistan",
+			"CenterLatitude":"29.383312",
+			"CenterLongitude":"71.710381"
+		},
+		{
+			"RegionID":"575",
+			"RegionName":"Birmingham, England, United Kingdom",
+			"CenterLatitude":"52.478271",
+			"CenterLongitude":"-1.895130"
+		},
+		{
+			"RegionID":"576",
+			"RegionName":"Beihai, China",
+			"CenterLatitude":"21.601086",
+			"CenterLongitude":"109.282501"
+		},
+		{
+			"RegionID":"577",
+			"RegionName":"Belo Horizonte, Brazil",
+			"CenterLatitude":"-19.919134",
+			"CenterLongitude":"-43.938629"
+		},
+		{
+			"RegionID":"578",
+			"RegionName":"Bastia, France",
+			"CenterLatitude":"42.697254",
+			"CenterLongitude":"9.450884"
+		},
+		{
+			"RegionID":"580",
+			"RegionName":"Block Island, Rhode Island, United States of America",
+			"CenterLatitude":"41.187641",
+			"CenterLongitude":"-71.576874"
+		},
+		{
+			"RegionID":"581",
+			"RegionName":"Bikini, Marshall Islands",
+			"CenterLatitude":"11.580500",
+			"CenterLongitude":"165.380005"
+		},
+		{
+			"RegionID":"582",
+			"RegionName":"Biak, Indonesia",
+			"CenterLatitude":"-1.175500",
+			"CenterLongitude":"136.098999"
+		},
+		{
+			"RegionID":"583",
+			"RegionName":"Billings (and vicinity), Montana, United States of America",
+			"CenterLatitude":"45.782692",
+			"CenterLongitude":"-108.504425"
+		},
+		{
+			"RegionID":"585",
+			"RegionName":"Bilbao, Spain",
+			"CenterLatitude":"43.261280",
+			"CenterLongitude":"-2.927170"
+		},
+		{
+			"RegionID":"586",
+			"RegionName":"Biarritz, France",
+			"CenterLatitude":"43.483440",
+			"CenterLongitude":"-1.561800"
+		},
+		{
+			"RegionID":"587",
+			"RegionName":"Biratnagar, Nepal",
+			"CenterLatitude":"26.461040",
+			"CenterLongitude":"87.270241"
+		},
+		{
+			"RegionID":"588",
+			"RegionName":"Bismarck, North Dakota, United States of America",
+			"CenterLatitude":"46.806801",
+			"CenterLongitude":"-100.785385"
+		},
+		{
+			"RegionID":"589",
+			"RegionName":"Bisho, South Africa",
+			"CenterLatitude":"-32.832760",
+			"CenterLongitude":"27.462389"
+		},
+		{
+			"RegionID":"590",
+			"RegionName":"Bejaia, Algeria",
+			"CenterLatitude":"36.740990",
+			"CenterLongitude":"5.086030"
+		},
+		{
+			"RegionID":"591",
+			"RegionName":"Bakkafjordur, Iceland",
+			"CenterLatitude":"66.012428",
+			"CenterLongitude":"-14.814625"
+		},
+		{
+			"RegionID":"592",
+			"RegionName":"Batsfjord, Norway",
+			"CenterLatitude":"70.632355",
+			"CenterLongitude":"29.709822"
+		},
+		{
+			"RegionID":"593",
+			"RegionName":"Bemidji, Minnesota, United States of America",
+			"CenterLatitude":"47.470612",
+			"CenterLongitude":"-94.881058"
+		},
+		{
+			"RegionID":"594",
+			"RegionName":"Banjul, Gambia",
+			"CenterLatitude":"13.452002",
+			"CenterLongitude":"-16.592684"
+		},
+		{
+			"RegionID":"595",
+			"RegionName":"Bujumbura, Burundi",
+			"CenterLatitude":"-3.390973",
+			"CenterLongitude":"29.358204"
+		},
+		{
+			"RegionID":"596",
+			"RegionName":"Bahar Dar, Ethiopia",
+			"CenterLatitude":"11.572465",
+			"CenterLongitude":"37.371723"
+		},
+		{
+			"RegionID":"597",
+			"RegionName":"Beijing, China",
+			"CenterLatitude":"39.905998",
+			"CenterLongitude":"116.385002"
+		},
+		{
+			"RegionID":"598",
+			"RegionName":"Bajawa, Indonesia",
+			"CenterLatitude":"-8.789500",
+			"CenterLongitude":"120.972504"
+		},
+		{
+			"RegionID":"599",
+			"RegionName":"Leon, Guanajuato, Guanajuato (all), Mexico",
+			"CenterLatitude":"21.121490",
+			"CenterLongitude":"-101.683441"
+		},
+		{
+			"RegionID":"600",
+			"RegionName":"Badajoz, Spain",
+			"CenterLatitude":"38.878269",
+			"CenterLongitude":"-6.970320"
+		},
+		{
+			"RegionID":"601",
+			"RegionName":"Buckland, Alaska, United States of America",
+			"CenterLatitude":"65.975052",
+			"CenterLongitude":"-161.141907"
+		},
+		{
+			"RegionID":"602",
+			"RegionName":"Kota Kinabalu (and vicinity), Malaysia",
+			"CenterLatitude":"5.979260",
+			"CenterLongitude":"116.072922"
+		},
+		{
+			"RegionID":"604",
+			"RegionName":"Bangkok, Thailand",
+			"CenterLatitude":"13.747500",
+			"CenterLongitude":"100.536011"
+		},
+		{
+			"RegionID":"605",
+			"RegionName":"Ba'Kelalan, Malaysia",
+			"CenterLatitude":"3.975500",
+			"CenterLongitude":"115.625000"
+		},
+		{
+			"RegionID":"606",
+			"RegionName":"Bamako, Mali",
+			"CenterLatitude":"12.617763",
+			"CenterLongitude":"-7.955663"
+		},
+		{
+			"RegionID":"607",
+			"RegionName":"Blackall, Queensland, Australia",
+			"CenterLatitude":"-24.589087",
+			"CenterLongitude":"145.409424"
+		},
+		{
+			"RegionID":"608",
+			"RegionName":"Bengkulu, Indonesia",
+			"CenterLatitude":"-3.812844",
+			"CenterLongitude":"102.297501"
+		},
+		{
+			"RegionID":"609",
+			"RegionName":"Betioky, Madagascar",
+			"CenterLatitude":"-24.615154",
+			"CenterLongitude":"44.763889"
+		},
+		{
+			"RegionID":"610",
+			"RegionName":"Beckley, West Virginia, United States of America",
+			"CenterLatitude":"37.777489",
+			"CenterLongitude":"-81.189117"
+		},
+		{
+			"RegionID":"611",
+			"RegionName":"Brookings, South Dakota, United States of America",
+			"CenterLatitude":"44.310120",
+			"CenterLongitude":"-96.798569"
+		},
+		{
+			"RegionID":"613",
+			"RegionName":"Bukoba, Tanzania",
+			"CenterLatitude":"-1.324153",
+			"CenterLongitude":"31.808685"
+		},
+		{
+			"RegionID":"614",
+			"RegionName":"Barcelona, Venezuela",
+			"CenterLatitude":"10.124423",
+			"CenterLongitude":"-64.671547"
+		},
+		{
+			"RegionID":"615",
+			"RegionName":"Borlange, Sweden",
+			"CenterLatitude":"60.485382",
+			"CenterLongitude":"15.432320"
+		},
+		{
+			"RegionID":"616",
+			"RegionName":"Bluefield, West Virginia, United States of America",
+			"CenterLatitude":"37.268089",
+			"CenterLongitude":"-81.222519"
+		},
+		{
+			"RegionID":"617",
+			"RegionName":"Belaga, Malaysia",
+			"CenterLatitude":"2.698000",
+			"CenterLongitude":"113.774498"
+		},
+		{
+			"RegionID":"618",
+			"RegionName":"Bellingham, Washington, United States of America",
+			"CenterLatitude":"48.751881",
+			"CenterLongitude":"-122.478439"
+		},
+		{
+			"RegionID":"619",
+			"RegionName":"Blackpool, England, United Kingdom",
+			"CenterLatitude":"53.818611",
+			"CenterLongitude":"-3.054290"
+		},
+		{
+			"RegionID":"620",
+			"RegionName":"Billund, Denmark",
+			"CenterLatitude":"55.731422",
+			"CenterLongitude":"9.114130"
+		},
+		{
+			"RegionID":"621",
+			"RegionName":"Bologna, Italy",
+			"CenterLatitude":"44.494049",
+			"CenterLongitude":"11.341600"
+		},
+		{
+			"RegionID":"622",
+			"RegionName":"Bengaluru, India",
+			"CenterLatitude":"12.976180",
+			"CenterLongitude":"77.599083"
+		},
+		{
+			"RegionID":"623",
+			"RegionName":"Blackwater, Queensland, Australia",
+			"CenterLatitude":"-23.484541",
+			"CenterLongitude":"148.792847"
+		},
+		{
+			"RegionID":"624",
+			"RegionName":"Blantyre, Malawi",
+			"CenterLatitude":"-15.791257",
+			"CenterLongitude":"35.047329"
+		},
+		{
+			"RegionID":"626",
+			"RegionName":"Belo Tsiribihina, Madagascar",
+			"CenterLatitude":"-19.702509",
+			"CenterLongitude":"44.544743"
+		},
+		{
+			"RegionID":"627",
+			"RegionName":"Broome, Western Australia, Australia",
+			"CenterLatitude":"-17.953171",
+			"CenterLongitude":"122.243530"
+		},
+		{
+			"RegionID":"628",
+			"RegionName":"Bloomington, Indiana, United States of America",
+			"CenterLatitude":"39.163502",
+			"CenterLongitude":"-86.526802"
+		},
+		{
+			"RegionID":"629",
+			"RegionName":"Bloomington, Illinois, United States of America",
+			"CenterLatitude":"40.480652",
+			"CenterLongitude":"-88.994339"
+		},
+		{
+			"RegionID":"630",
+			"RegionName":"Bitam, Gabon",
+			"CenterLatitude":"2.080837",
+			"CenterLongitude":"11.495602"
+		},
+		{
+			"RegionID":"631",
+			"RegionName":"Bhamo, Myanmar",
+			"CenterLatitude":"24.247499",
+			"CenterLongitude":"97.234001"
+		},
+		{
+			"RegionID":"633",
+			"RegionName":"Bima, Indonesia",
+			"CenterLatitude":"-8.451000",
+			"CenterLongitude":"118.723999"
+		},
+		{
+			"RegionID":"634",
+			"RegionName":"Buon Ma Thuot, Vietnam",
+			"CenterLatitude":"12.659691",
+			"CenterLongitude":"108.032158"
+		},
+		{
+			"RegionID":"635",
+			"RegionName":"Bordj Badji Mokhtar, Algeria",
+			"CenterLatitude":"21.362806",
+			"CenterLongitude":"0.941285"
+		},
+		{
+			"RegionID":"636",
+			"RegionName":"Belep, New Caledonia",
+			"CenterLatitude":"-19.714500",
+			"CenterLongitude":"163.619003"
+		},
+		{
+			"RegionID":"637",
+			"RegionName":"Nashville, Tennessee, United States of America",
+			"CenterLatitude":"36.163738",
+			"CenterLongitude":"-86.782890"
+		},
+		{
+			"RegionID":"641",
+			"RegionName":"Brisbane, Queensland, Australia",
+			"CenterLatitude":"-27.468300",
+			"CenterLongitude":"153.026993"
+		},
+		{
+			"RegionID":"642",
+			"RegionName":"Benin City, Nigeria",
+			"CenterLatitude":"6.341545",
+			"CenterLongitude":"5.633617"
+		},
+		{
+			"RegionID":"643",
+			"RegionName":"Ballina, New South Wales, Australia",
+			"CenterLatitude":"-28.869949",
+			"CenterLongitude":"153.559113"
+		},
+		{
+			"RegionID":"644",
+			"RegionName":"Bronnoysund, Norway",
+			"CenterLatitude":"65.480286",
+			"CenterLongitude":"12.199270"
+		},
+		{
+			"RegionID":"645",
+			"RegionName":"Bannu, Pakistan",
+			"CenterLatitude":"32.991676",
+			"CenterLongitude":"70.603127"
+		},
+		{
+			"RegionID":"646",
+			"RegionName":"Barinas, Venezuela",
+			"CenterLatitude":"8.621129",
+			"CenterLongitude":"-70.230034"
+		},
+		{
+			"RegionID":"647",
+			"RegionName":"Bundi, Papua New Guinea",
+			"CenterLatitude":"-3.993300",
+			"CenterLongitude":"143.016846"
+		},
+		{
+			"RegionID":"648",
+			"RegionName":"Bellona Island, Solomon Islands",
+			"CenterLatitude":"-11.299000",
+			"CenterLongitude":"159.796494"
+		},
+		{
+			"RegionID":"651",
+			"RegionName":"Bordeaux, France",
+			"CenterLatitude":"44.841061",
+			"CenterLongitude":"-0.580168"
+		},
+		{
+			"RegionID":"652",
+			"RegionName":"Boundji, Republic of the Congo",
+			"CenterLatitude":"-1.036140",
+			"CenterLongitude":"15.361932"
+		},
+		{
+			"RegionID":"653",
+			"RegionName":"Bogota, Colombia",
+			"CenterLatitude":"4.661003",
+			"CenterLongitude":"-74.092842"
+		},
+		{
+			"RegionID":"654",
+			"RegionName":"Bournemouth, England, United Kingdom",
+			"CenterLatitude":"50.719891",
+			"CenterLongitude":"-1.880030"
+		},
+		{
+			"RegionID":"655",
+			"RegionName":"Boise, Idaho, United States of America",
+			"CenterLatitude":"43.614799",
+			"CenterLongitude":"-116.204079"
+		},
+		{
+			"RegionID":"656",
+			"RegionName":"Bourgas, Bulgaria",
+			"CenterLatitude":"42.496399",
+			"CenterLongitude":"27.470116"
+		},
+		{
+			"RegionID":"657",
+			"RegionName":"Mumbai, India",
+			"CenterLatitude":"19.093731",
+			"CenterLongitude":"72.867989"
+		},
+		{
+			"RegionID":"659",
+			"RegionName":"Bodo, Norway",
+			"CenterLatitude":"67.283180",
+			"CenterLongitude":"14.384131"
+		},
+		{
+			"RegionID":"660",
+			"RegionName":"Boston, Massachusetts, United States of America",
+			"CenterLatitude":"42.359356",
+			"CenterLongitude":"-71.059784"
+		},
+		{
+			"RegionID":"661",
+			"RegionName":"Boang, Papua New Guinea",
+			"CenterLatitude":"-3.310110",
+			"CenterLongitude":"142.805161"
+		},
+		{
+			"RegionID":"662",
+			"RegionName":"Borroloola, Northern Territory, Australia",
+			"CenterLatitude":"-16.082689",
+			"CenterLongitude":"136.309341"
+		},
+		{
+			"RegionID":"663",
+			"RegionName":"Bobo Dioulasso, Burkina Faso",
+			"CenterLatitude":"11.176586",
+			"CenterLongitude":"-4.284547"
+		},
+		{
+			"RegionID":"664",
+			"RegionName":"Bamenda, Cameroon",
+			"CenterLatitude":"5.951528",
+			"CenterLongitude":"10.158272"
+		},
+		{
+			"RegionID":"665",
+			"RegionName":"Balikpapan, Indonesia",
+			"CenterLatitude":"-1.150426",
+			"CenterLongitude":"116.918823"
+		},
+		{
+			"RegionID":"666",
+			"RegionName":"Porto Seguro, Brazil",
+			"CenterLatitude":"-16.444935",
+			"CenterLongitude":"-39.063854"
+		},
+		{
+			"RegionID":"667",
+			"RegionName":"Beaumont (and vicinity), Texas, United States of America",
+			"CenterLatitude":"30.083540",
+			"CenterLongitude":"-94.099609"
+		},
+		{
+			"RegionID":"668",
+			"RegionName":"Besalampy, Madagascar",
+			"CenterLatitude":"-16.748165",
+			"CenterLongitude":"44.495129"
+		},
+		{
+			"RegionID":"669",
+			"RegionName":"Bubaque, Guinea-Bissau",
+			"CenterLatitude":"11.250230",
+			"CenterLongitude":"-15.866524"
+		},
+		{
+			"RegionID":"670",
+			"RegionName":"Biggin Hill, Westerham, England, United Kingdom",
+			"CenterLatitude":"51.313629",
+			"CenterLongitude":"0.028729"
+		},
+		{
+			"RegionID":"671",
+			"RegionName":"Brunswick, Georgia, United States of America",
+			"CenterLatitude":"31.149158",
+			"CenterLongitude":"-81.495071"
+		},
+		{
+			"RegionID":"672",
+			"RegionName":"Boulia, Queensland, Australia",
+			"CenterLatitude":"-22.877979",
+			"CenterLongitude":"139.916458"
+		},
+		{
+			"RegionID":"673",
+			"RegionName":"Aguadilla, Puerto Rico",
+			"CenterLatitude":"18.462175",
+			"CenterLongitude":"-67.130531"
+		},
+		{
+			"RegionID":"674",
+			"RegionName":"Bouna, Cote d'Ivoire",
+			"CenterLatitude":"9.268788",
+			"CenterLongitude":"-2.990432"
+		},
+		{
+			"RegionID":"675",
+			"RegionName":"Blagoveshchensk, Russia",
+			"CenterLatitude":"50.286720",
+			"CenterLongitude":"127.602638"
+		},
+		{
+			"RegionID":"676",
+			"RegionName":"Port Elizabeth, Bequia Island, St. Vincent and the Grenadines",
+			"CenterLatitude":"13.000170",
+			"CenterLongitude":"-61.244518"
+		},
+		{
+			"RegionID":"677",
+			"RegionName":"Bariloche, Argentina",
+			"CenterLatitude":"-41.135509",
+			"CenterLongitude":"-71.301498"
+		},
+		{
+			"RegionID":"678",
+			"RegionName":"Brainerd, Minnesota, United States of America",
+			"CenterLatitude":"46.355801",
+			"CenterLongitude":"-94.200653"
+		},
+		{
+			"RegionID":"679",
+			"RegionName":"Bremen, Germany",
+			"CenterLatitude":"53.075668",
+			"CenterLongitude":"8.806880"
+		},
+		{
+			"RegionID":"680",
+			"RegionName":"Bari, Italy",
+			"CenterLatitude":"41.130150",
+			"CenterLongitude":"16.869572"
+		},
+		{
+			"RegionID":"681",
+			"RegionName":"Bourke, New South Wales, Australia",
+			"CenterLatitude":"-30.039215",
+			"CenterLongitude":"146.076401"
+		},
+		{
+			"RegionID":"682",
+			"RegionName":"Burlington (and vicinity), Iowa, United States of America",
+			"CenterLatitude":"40.813160",
+			"CenterLongitude":"-91.103134"
+		},
+		{
+			"RegionID":"683",
+			"RegionName":"Barquisimeto, Venezuela",
+			"CenterLatitude":"10.030413",
+			"CenterLongitude":"-69.311378"
+		},
+		{
+			"RegionID":"684",
+			"RegionName":"Bern, Switzerland",
+			"CenterLatitude":"46.948219",
+			"CenterLongitude":"7.444170"
+		},
+		{
+			"RegionID":"685",
+			"RegionName":"Brownsville, Texas, United States of America",
+			"CenterLatitude":"25.902981",
+			"CenterLongitude":"-97.497437"
+		},
+		{
+			"RegionID":"686",
+			"RegionName":"Brno, Czech Republic",
+			"CenterLatitude":"49.194000",
+			"CenterLongitude":"16.609058"
+		},
+		{
+			"RegionID":"687",
+			"RegionName":"Isle of Barra, Scotland, United Kingdom",
+			"CenterLatitude":"56.992535",
+			"CenterLongitude":"-7.465907"
+		},
+		{
+			"RegionID":"688",
+			"RegionName":"Bristol (and vicinity), England, United Kingdom",
+			"CenterLatitude":"51.452007",
+			"CenterLongitude":"-2.607073"
+		},
+		{
+			"RegionID":"689",
+			"RegionName":"Bathurst Island, Northern Territory, Australia",
+			"CenterLatitude":"-11.617110",
+			"CenterLongitude":"130.260223"
+		},
+		{
+			"RegionID":"690",
+			"RegionName":"Brussels, Belgium",
+			"CenterLatitude":"50.846500",
+			"CenterLongitude":"4.353310"
+		},
+		{
+			"RegionID":"691",
+			"RegionName":"Barrow, Alaska, United States of America",
+			"CenterLatitude":"71.286896",
+			"CenterLongitude":"-156.775345"
+		},
+		{
+			"RegionID":"693",
+			"RegionName":"Brasilia, Brazil",
+			"CenterLatitude":"-15.794650",
+			"CenterLongitude":"-47.883743"
+		},
+		{
+			"RegionID":"694",
+			"RegionName":"Bahia Solano, Colombia",
+			"CenterLatitude":"6.221758",
+			"CenterLongitude":"-77.366219"
+		},
+		{
+			"RegionID":"695",
+			"RegionName":"Baoshan, Shanghai, China",
+			"CenterLatitude":"31.408197",
+			"CenterLongitude":"121.409897"
+		},
+		{
+			"RegionID":"696",
+			"RegionName":"Bata, Equatorial Guinea",
+			"CenterLatitude":"1.858941",
+			"CenterLongitude":"9.768830"
+		},
+		{
+			"RegionID":"697",
+			"RegionName":"Biskra, Algeria",
+			"CenterLatitude":"34.851425",
+			"CenterLongitude":"5.717567"
+		},
+		{
+			"RegionID":"698",
+			"RegionName":"Basel, Switzerland",
+			"CenterLatitude":"47.558189",
+			"CenterLongitude":"7.587920"
+		},
+		{
+			"RegionID":"702",
+			"RegionName":"Bertoua, Cameroon",
+			"CenterLatitude":"4.573047",
+			"CenterLongitude":"13.679509"
+		},
+		{
+			"RegionID":"705",
+			"RegionName":"Banda Aceh, Indonesia",
+			"CenterLatitude":"5.560110",
+			"CenterLongitude":"95.320503"
+		},
+		{
+			"RegionID":"706",
+			"RegionName":"Bratsk, Russia",
+			"CenterLatitude":"56.246365",
+			"CenterLongitude":"101.715271"
+		},
+		{
+			"RegionID":"707",
+			"RegionName":"Butte (and vicinity), Montana, United States of America",
+			"CenterLatitude":"46.013710",
+			"CenterLongitude":"-112.535721"
+		},
+		{
+			"RegionID":"708",
+			"RegionName":"Baton Rouge, Louisiana, United States of America",
+			"CenterLatitude":"30.451519",
+			"CenterLongitude":"-91.186913"
+		},
+		{
+			"RegionID":"709",
+			"RegionName":"Bratislava, Slovakia",
+			"CenterLatitude":"48.143517",
+			"CenterLongitude":"17.108286"
+		},
+		{
+			"RegionID":"710",
+			"RegionName":"Bettles, Alaska, United States of America",
+			"CenterLatitude":"66.913849",
+			"CenterLongitude":"-151.680084"
+		},
+		{
+			"RegionID":"711",
+			"RegionName":"Bintulu, Malaysia",
+			"CenterLatitude":"2.987409",
+			"CenterLongitude":"113.261421"
+		},
+		{
+			"RegionID":"712",
+			"RegionName":"Burlington, Vermont, United States of America",
+			"CenterLatitude":"44.476578",
+			"CenterLongitude":"-73.212540"
+		},
+		{
+			"RegionID":"713",
+			"RegionName":"Buka Island, Papua New Guinea",
+			"CenterLatitude":"-5.243194",
+			"CenterLongitude":"154.610519"
+		},
+		{
+			"RegionID":"714",
+			"RegionName":"Burketown, Queensland, Australia",
+			"CenterLatitude":"-17.848194",
+			"CenterLongitude":"139.632385"
+		},
+		{
+			"RegionID":"715",
+			"RegionName":"Budapest, Hungary",
+			"CenterLatitude":"47.493160",
+			"CenterLongitude":"19.055599"
+		},
+		{
+			"RegionID":"716",
+			"RegionName":"Buenos Aires, Argentina",
+			"CenterLatitude":"-34.609501",
+			"CenterLongitude":"-58.387199"
+		},
+		{
+			"RegionID":"717",
+			"RegionName":"Buffalo, New York, United States of America",
+			"CenterLatitude":"42.886009",
+			"CenterLongitude":"-78.875488"
+		},
+		{
+			"RegionID":"718",
+			"RegionName":"Benguela, Angola",
+			"CenterLatitude":"-12.589481",
+			"CenterLongitude":"13.418112"
+		},
+		{
+			"RegionID":"719",
+			"RegionName":"Bucharest (and vicinity), Romania",
+			"CenterLatitude":"44.426670",
+			"CenterLongitude":"26.102314"
+		},
+		{
+			"RegionID":"720",
+			"RegionName":"Boussaada, Algeria",
+			"CenterLatitude":"35.200684",
+			"CenterLongitude":"4.182914"
+		},
+		{
+			"RegionID":"722",
+			"RegionName":"Bulolo, Papua New Guinea",
+			"CenterLatitude":"-7.204448",
+			"CenterLongitude":"146.632141"
+		},
+		{
+			"RegionID":"724",
+			"RegionName":"Bulawayo, Zimbabwe",
+			"CenterLatitude":"-20.166088",
+			"CenterLongitude":"28.568110"
+		},
+		{
+			"RegionID":"725",
+			"RegionName":"Burbank, California, United States of America",
+			"CenterLatitude":"34.183899",
+			"CenterLongitude":"-118.327248"
+		},
+		{
+			"RegionID":"726",
+			"RegionName":"Batumi, Georgia",
+			"CenterLatitude":"41.642052",
+			"CenterLongitude":"41.627209"
+		},
+		{
+			"RegionID":"729",
+			"RegionName":"Boa Vista, Brazil",
+			"CenterLatitude":"3.117827",
+			"CenterLongitude":"-60.718113"
+		},
+		{
+			"RegionID":"730",
+			"RegionName":"Boa Vista, Cape Verde",
+			"CenterLatitude":"16.098162",
+			"CenterLongitude":"-22.832687"
+		},
+		{
+			"RegionID":"731",
+			"RegionName":"Brive-la-Gaillarde, France",
+			"CenterLatitude":"45.158760",
+			"CenterLongitude":"1.532530"
+		},
+		{
+			"RegionID":"732",
+			"RegionName":"Berlevag, Norway",
+			"CenterLatitude":"70.856232",
+			"CenterLongitude":"29.095606"
+		},
+		{
+			"RegionID":"733",
+			"RegionName":"Vilhena, Brazil",
+			"CenterLatitude":"-12.709796",
+			"CenterLongitude":"-60.105125"
+		},
+		{
+			"RegionID":"734",
+			"RegionName":"Birdsville, Queensland, Australia",
+			"CenterLatitude":"-25.407806",
+			"CenterLongitude":"139.167664"
+		},
+		{
+			"RegionID":"736",
+			"RegionName":"Brownwood, Texas, United States of America",
+			"CenterLatitude":"31.721378",
+			"CenterLongitude":"-98.981277"
+		},
+		{
+			"RegionID":"737",
+			"RegionName":"Braunschweig, Germany",
+			"CenterLatitude":"52.263588",
+			"CenterLongitude":"10.521231"
+		},
+		{
+			"RegionID":"738",
+			"RegionName":"Baltimore, Maryland, United States of America",
+			"CenterLatitude":"39.286690",
+			"CenterLongitude":"-76.609283"
+		},
+		{
+			"RegionID":"739",
+			"RegionName":"Bol, Croatia",
+			"CenterLatitude":"43.261051",
+			"CenterLongitude":"16.654280"
+		},
+		{
+			"RegionID":"740",
+			"RegionName":"Bandar Seri Begawan, Brunei",
+			"CenterLatitude":"4.894840",
+			"CenterLongitude":"114.939568"
+		},
+		{
+			"RegionID":"741",
+			"RegionName":"Brewarrina, New South Wales, Australia",
+			"CenterLatitude":"-29.988939",
+			"CenterLongitude":"146.888214"
+		},
+		{
+			"RegionID":"742",
+			"RegionName":"Burnie, Tasmania, Australia",
+			"CenterLatitude":"-41.052170",
+			"CenterLongitude":"145.906631"
+		},
+		{
+			"RegionID":"743",
+			"RegionName":"Bakel, Senegal",
+			"CenterLatitude":"14.894750",
+			"CenterLongitude":"-12.479138"
+		},
+		{
+			"RegionID":"744",
+			"RegionName":"Boundiali, Cote d'Ivoire",
+			"CenterLatitude":"9.515966",
+			"CenterLongitude":"-6.471116"
+		},
+		{
+			"RegionID":"745",
+			"RegionName":"Bodrum, Turkey",
+			"CenterLatitude":"37.033260",
+			"CenterLongitude":"27.436634"
+		},
+		{
+			"RegionID":"746",
+			"RegionName":"Butuan, Philippines",
+			"CenterLatitude":"8.939139",
+			"CenterLongitude":"125.593575"
+		},
+		{
+			"RegionID":"747",
+			"RegionName":"Breiddalsvik, Iceland",
+			"CenterLatitude":"64.796410",
+			"CenterLongitude":"-14.010128"
+		},
+		{
+			"RegionID":"749",
+			"RegionName":"Boundary, Alaska, United States of America",
+			"CenterLatitude":"64.085793",
+			"CenterLongitude":"-141.041412"
+		},
+		{
+			"RegionID":"750",
+			"RegionName":"Dibba, Oman",
+			"CenterLatitude":"25.651779",
+			"CenterLongitude":"56.219765"
+		},
+		{
+			"RegionID":"752",
+			"RegionName":"Bouake, Cote d'Ivoire",
+			"CenterLatitude":"7.687539",
+			"CenterLongitude":"-5.023179"
+		},
+		{
+			"RegionID":"753",
+			"RegionName":"Bayamo, Cuba",
+			"CenterLatitude":"20.393532",
+			"CenterLongitude":"-76.627968"
+		},
+		{
+			"RegionID":"754",
+			"RegionName":"Bayreuth, Germany",
+			"CenterLatitude":"49.937717",
+			"CenterLongitude":"11.585093"
+		},
+		{
+			"RegionID":"755",
+			"RegionName":"Blakely Island, Washington, United States of America",
+			"CenterLatitude":"48.560852",
+			"CenterLongitude":"-122.804512"
+		},
+		{
+			"RegionID":"756",
+			"RegionName":"Belize City, Belize",
+			"CenterLatitude":"17.495708",
+			"CenterLongitude":"-88.186745"
+		},
+		{
+			"RegionID":"757",
+			"RegionName":"Bozeman (and vicinity), Montana, United States of America",
+			"CenterLatitude":"45.679310",
+			"CenterLongitude":"-111.034210"
+		},
+		{
+			"RegionID":"758",
+			"RegionName":"Beziers (and vicinity), France",
+			"CenterLatitude":"43.341640",
+			"CenterLongitude":"3.217020"
+		},
+		{
+			"RegionID":"760",
+			"RegionName":"Brazzaville, Republic of the Congo",
+			"CenterLatitude":"-4.237149",
+			"CenterLongitude":"15.292216"
+		},
+		{
+			"RegionID":"761",
+			"RegionName":"Brize Norton, Carterton, England, United Kingdom",
+			"CenterLatitude":"51.751842",
+			"CenterLongitude":"-1.590815"
+		},
+		{
+			"RegionID":"762",
+			"RegionName":"Cabinda, Angola",
+			"CenterLatitude":"-5.555295",
+			"CenterLongitude":"12.181989"
+		},
+		{
+			"RegionID":"763",
+			"RegionName":"Cascavel (Parana), Brazil",
+			"CenterLatitude":"-24.955441",
+			"CenterLongitude":"-53.459057"
+		},
+		{
+			"RegionID":"764",
+			"RegionName":"Columbia (and vicinity), South Carolina, United States of America",
+			"CenterLatitude":"34.005360",
+			"CenterLongitude":"-81.035385"
+		},
+		{
+			"RegionID":"765",
+			"RegionName":"Carauari, Brazil",
+			"CenterLatitude":"-5.118368",
+			"CenterLongitude":"-67.336838"
+		},
+		{
+			"RegionID":"766",
+			"RegionName":"Cagliari, Italy",
+			"CenterLatitude":"39.217293",
+			"CenterLongitude":"9.113360"
+		},
+		{
+			"RegionID":"767",
+			"RegionName":"Cairo, Egypt",
+			"CenterLatitude":"30.044437",
+			"CenterLongitude":"31.235710"
+		},
+		{
+			"RegionID":"768",
+			"RegionName":"Akron, Ohio, United States of America",
+			"CenterLatitude":"41.085152",
+			"CenterLongitude":"-81.516983"
+		},
+		{
+			"RegionID":"769",
+			"RegionName":"Campbeltown, Scotland, United Kingdom",
+			"CenterLatitude":"55.426922",
+			"CenterLongitude":"-5.619796"
+		},
+		{
+			"RegionID":"770",
+			"RegionName":"Camiri, Bolivia",
+			"CenterLatitude":"-20.032408",
+			"CenterLongitude":"-63.526505"
+		},
+		{
+			"RegionID":"771",
+			"RegionName":"Guangzhou (and vicinity), China",
+			"CenterLatitude":"23.133730",
+			"CenterLongitude":"113.266190"
+		},
+		{
+			"RegionID":"772",
+			"RegionName":"Cap-Haitien (and vicinity), Haiti",
+			"CenterLatitude":"19.721708",
+			"CenterLongitude":"-72.219406"
+		},
+		{
+			"RegionID":"773",
+			"RegionName":"Caucasia, Colombia",
+			"CenterLatitude":"7.892553",
+			"CenterLongitude":"-75.033981"
+		},
+		{
+			"RegionID":"774",
+			"RegionName":"Casablanca, Morocco",
+			"CenterLatitude":"33.596729",
+			"CenterLongitude":"-7.616807"
+		},
+		{
+			"RegionID":"776",
+			"RegionName":"Cayenne, French Guiana",
+			"CenterLatitude":"4.923432",
+			"CenterLongitude":"-52.263809"
+		},
+		{
+			"RegionID":"777",
+			"RegionName":"Cobar, New South Wales, Australia",
+			"CenterLatitude":"-31.554174",
+			"CenterLongitude":"145.828537"
+		},
+		{
+			"RegionID":"779",
+			"RegionName":"Cochabamba, Bolivia",
+			"CenterLatitude":"-17.388485",
+			"CenterLongitude":"-66.154694"
+		},
+		{
+			"RegionID":"780",
+			"RegionName":"Cumberland, Maryland, United States of America",
+			"CenterLatitude":"39.649277",
+			"CenterLongitude":"-78.747375"
+		},
+		{
+			"RegionID":"781",
+			"RegionName":"Cambridge, England, United Kingdom",
+			"CenterLatitude":"52.204720",
+			"CenterLongitude":"0.120070"
+		},
+		{
+			"RegionID":"782",
+			"RegionName":"Bechar, Algeria",
+			"CenterLatitude":"31.607122",
+			"CenterLongitude":"-2.228384"
+		},
+		{
+			"RegionID":"783",
+			"RegionName":"Ciudad Bolivar, Venezuela",
+			"CenterLatitude":"8.113114",
+			"CenterLongitude":"-63.561253"
+		},
+		{
+			"RegionID":"784",
+			"RegionName":"Cotabato, Philippines",
+			"CenterLatitude":"7.212000",
+			"CenterLongitude":"124.242996"
+		},
+		{
+			"RegionID":"785",
+			"RegionName":"Calabar, Nigeria",
+			"CenterLatitude":"4.983447",
+			"CenterLongitude":"8.336222"
+		},
+		{
+			"RegionID":"786",
+			"RegionName":"Canberra, Australian Capital Territory, Australia",
+			"CenterLatitude":"-35.283413",
+			"CenterLongitude":"149.128128"
+		},
+		{
+			"RegionID":"787",
+			"RegionName":"Grand Case, St. Martin",
+			"CenterLatitude":"18.101494",
+			"CenterLongitude":"-63.055046"
+		},
+		{
+			"RegionID":"788",
+			"RegionName":"Carcassonne, France",
+			"CenterLatitude":"43.213219",
+			"CenterLongitude":"2.351980"
+		},
+		{
+			"RegionID":"789",
+			"RegionName":"Kozhikode, India",
+			"CenterLatitude":"11.248780",
+			"CenterLongitude":"75.783829"
+		},
+		{
+			"RegionID":"790",
+			"RegionName":"Concepcion (and vicinity), Chile",
+			"CenterLatitude":"-36.811928",
+			"CenterLongitude":"-73.037308"
+		},
+		{
+			"RegionID":"791",
+			"RegionName":"Caracas, Venezuela",
+			"CenterLatitude":"10.502350",
+			"CenterLongitude":"-66.913521"
+		},
+		{
+			"RegionID":"792",
+			"RegionName":"Kolkata, India",
+			"CenterLatitude":"22.569633",
+			"CenterLongitude":"88.360809"
+		},
+		{
+			"RegionID":"793",
+			"RegionName":"Craig Cove, Vanuatu",
+			"CenterLatitude":"-16.182501",
+			"CenterLongitude":"167.521500"
+		},
+		{
+			"RegionID":"794",
+			"RegionName":"Cold Bay, Alaska, United States of America",
+			"CenterLatitude":"55.211720",
+			"CenterLongitude":"-162.719116"
+		},
+		{
+			"RegionID":"795",
+			"RegionName":"Cedar City, Utah, United States of America",
+			"CenterLatitude":"37.677338",
+			"CenterLongitude":"-113.061722"
+		},
+		{
+			"RegionID":"796",
+			"RegionName":"Conceicao do Araguaia, Brazil",
+			"CenterLatitude":"-8.256631",
+			"CenterLongitude":"-49.288269"
+		},
+		{
+			"RegionID":"797",
+			"RegionName":"Candle, Alaska, United States of America",
+			"CenterLatitude":"65.907745",
+			"CenterLongitude":"-161.922089"
+		},
+		{
+			"RegionID":"798",
+			"RegionName":"Chadron, Nebraska, United States of America",
+			"CenterLatitude":"42.827129",
+			"CenterLongitude":"-103.043877"
+		},
+		{
+			"RegionID":"799",
+			"RegionName":"Cordova, Alaska, United States of America",
+			"CenterLatitude":"60.544498",
+			"CenterLongitude":"-145.754776"
+		},
+		{
+			"RegionID":"800",
+			"RegionName":"Cebu, Philippines",
+			"CenterLatitude":"10.309726",
+			"CenterLongitude":"123.893089"
+		},
+		{
+			"RegionID":"801",
+			"RegionName":"Crescent City, California, United States of America",
+			"CenterLatitude":"41.775280",
+			"CenterLongitude":"-124.006432"
+		},
+		{
+			"RegionID":"802",
+			"RegionName":"Ceduna, South Australia, The Dc Of Ceduna, Australia",
+			"CenterLatitude":"-32.046761",
+			"CenterLongitude":"133.624619"
+		},
+		{
+			"RegionID":"804",
+			"RegionName":"Chelyabinsk, Russia",
+			"CenterLatitude":"55.167706",
+			"CenterLongitude":"61.395107"
+		},
+		{
+			"RegionID":"805",
+			"RegionName":"Central, Alaska, United States of America",
+			"CenterLatitude":"65.565643",
+			"CenterLongitude":"-144.795105"
+		},
+		{
+			"RegionID":"806",
+			"RegionName":"Ciudad Obregon, Sonora, Mexico",
+			"CenterLatitude":"27.489239",
+			"CenterLongitude":"-109.935890"
+		},
+		{
+			"RegionID":"807",
+			"RegionName":"Waco Kungo, Angola",
+			"CenterLatitude":"-11.357786",
+			"CenterLongitude":"15.103441"
+		},
+		{
+			"RegionID":"808",
+			"RegionName":"Cannes, France",
+			"CenterLatitude":"43.553951",
+			"CenterLongitude":"7.017060"
+		},
+		{
+			"RegionID":"809",
+			"RegionName":"Cherbourg-en-Cotentin, France",
+			"CenterLatitude":"49.639969",
+			"CenterLongitude":"-1.622970"
+		},
+		{
+			"RegionID":"810",
+			"RegionName":"Cortez (and vicinity), Colorado, United States of America",
+			"CenterLatitude":"37.348629",
+			"CenterLongitude":"-108.583862"
+		},
+		{
+			"RegionID":"812",
+			"RegionName":"Clermont-Ferrand, France",
+			"CenterLatitude":"45.776459",
+			"CenterLongitude":"3.082100"
+		},
+		{
+			"RegionID":"814",
+			"RegionName":"Caen, France",
+			"CenterLatitude":"49.182968",
+			"CenterLongitude":"-0.364280"
+		},
+		{
+			"RegionID":"815",
+			"RegionName":"Coffs Harbour (and vicinity), New South Wales, Australia",
+			"CenterLatitude":"-30.297924",
+			"CenterLongitude":"153.116409"
+		},
+		{
+			"RegionID":"816",
+			"RegionName":"Corfu, Greece",
+			"CenterLatitude":"39.598507",
+			"CenterLongitude":"19.858486"
+		},
+		{
+			"RegionID":"817",
+			"RegionName":"Craig, Alaska, United States of America",
+			"CenterLatitude":"55.450642",
+			"CenterLongitude":"-132.988541"
+		},
+		{
+			"RegionID":"818",
+			"RegionName":"Cuiaba (and vicinity), Brazil",
+			"CenterLatitude":"-15.628691",
+			"CenterLongitude":"-56.087021"
+		},
+		{
+			"RegionID":"819",
+			"RegionName":"Cape Gloucester, Papua New Guinea",
+			"CenterLatitude":"-5.517000",
+			"CenterLongitude":"148.510498"
+		},
+		{
+			"RegionID":"820",
+			"RegionName":"Cape Girardeau, Missouri, United States of America",
+			"CenterLatitude":"37.326546",
+			"CenterLongitude":"-89.581894"
+		},
+		{
+			"RegionID":"821",
+			"RegionName":"Cologne, Germany",
+			"CenterLatitude":"50.940102",
+			"CenterLongitude":"6.953330"
+		},
+		{
+			"RegionID":"822",
+			"RegionName":"Zhengzhou, China",
+			"CenterLatitude":"34.603428",
+			"CenterLongitude":"113.448318"
+		},
+		{
+			"RegionID":"823",
+			"RegionName":"Chittagong, Bangladesh",
+			"CenterLatitude":"22.305000",
+			"CenterLongitude":"91.817497"
+		},
+		{
+			"RegionID":"824",
+			"RegionName":"Changchun, China",
+			"CenterLatitude":"44.378239",
+			"CenterLongitude":"125.752876"
+		},
+		{
+			"RegionID":"825",
+			"RegionName":"Campo Grande, Brazil",
+			"CenterLatitude":"-20.470013",
+			"CenterLongitude":"-54.621151"
+		},
+		{
+			"RegionID":"826",
+			"RegionName":"Cagayan de Oro, Philippines",
+			"CenterLatitude":"8.459122",
+			"CenterLongitude":"124.620682"
+		},
+		{
+			"RegionID":"827",
+			"RegionName":"Chattanooga (and vicinity), Tennessee, United States of America",
+			"CenterLatitude":"35.045769",
+			"CenterLongitude":"-85.309418"
+		},
+		{
+			"RegionID":"828",
+			"RegionName":"Christchurch, New Zealand",
+			"CenterLatitude":"-43.530960",
+			"CenterLongitude":"172.636459"
+		},
+		{
+			"RegionID":"829",
+			"RegionName":"Chicago, Illinois, United States of America",
+			"CenterLatitude":"41.880779",
+			"CenterLongitude":"-87.628128"
+		},
+		{
+			"RegionID":"830",
+			"RegionName":"Charlottesville, Virginia, United States of America",
+			"CenterLatitude":"38.031029",
+			"CenterLongitude":"-78.479660"
+		},
+		{
+			"RegionID":"831",
+			"RegionName":"Circle Hot Springs, Alaska, United States of America",
+			"CenterLatitude":"65.484428",
+			"CenterLongitude":"-144.635742"
+		},
+		{
+			"RegionID":"833",
+			"RegionName":"Charleston, South Carolina, United States of America",
+			"CenterLatitude":"32.780781",
+			"CenterLongitude":"-79.931541"
+		},
+		{
+			"RegionID":"834",
+			"RegionName":"Chatham Island, New Zealand",
+			"CenterLatitude":"-43.883762",
+			"CenterLongitude":"-176.550293"
+		},
+		{
+			"RegionID":"835",
+			"RegionName":"Chuathbaluk, Alaska, United States of America",
+			"CenterLatitude":"61.577526",
+			"CenterLongitude":"-159.244904"
+		},
+		{
+			"RegionID":"836",
+			"RegionName":"Choiseul Bay, Solomon Islands",
+			"CenterLatitude":"-6.682500",
+			"CenterLongitude":"156.386993"
+		},
+		{
+			"RegionID":"837",
+			"RegionName":"Chico, California, United States of America",
+			"CenterLatitude":"39.728500",
+			"CenterLongitude":"-121.838882"
+		},
+		{
+			"RegionID":"838",
+			"RegionName":"Cedar Rapids, Iowa, United States of America",
+			"CenterLatitude":"41.978081",
+			"CenterLongitude":"-91.663696"
+		},
+		{
+			"RegionID":"839",
+			"RegionName":"Cobija, Bolivia",
+			"CenterLatitude":"-11.036361",
+			"CenterLongitude":"-68.785629"
+		},
+		{
+			"RegionID":"840",
+			"RegionName":"Chalkyitsik, Alaska, United States of America",
+			"CenterLatitude":"66.657196",
+			"CenterLongitude":"-143.723221"
+		},
+		{
+			"RegionID":"841",
+			"RegionName":"Chipata, Zambia",
+			"CenterLatitude":"-13.631180",
+			"CenterLongitude":"32.639065"
+		},
+		{
+			"RegionID":"842",
+			"RegionName":"Shymkent, Kazakhstan",
+			"CenterLatitude":"42.348083",
+			"CenterLongitude":"69.586617"
+		},
+		{
+			"RegionID":"844",
+			"RegionName":"Chiclayo (and vicinity), Peru",
+			"CenterLatitude":"-6.781164",
+			"CenterLongitude":"-79.828491"
+		},
+		{
+			"RegionID":"845",
+			"RegionName":"Cajamarca (and vicinity), Peru",
+			"CenterLatitude":"-7.159376",
+			"CenterLongitude":"-78.503815"
+		},
+		{
+			"RegionID":"846",
+			"RegionName":"Coimbatore, India",
+			"CenterLatitude":"11.018357",
+			"CenterLongitude":"76.965858"
+		},
+		{
+			"RegionID":"847",
+			"RegionName":"Calama, Chile",
+			"CenterLatitude":"-22.541021",
+			"CenterLongitude":"-68.824249"
+		},
+		{
+			"RegionID":"848",
+			"RegionName":"Chitral, Pakistan",
+			"CenterLatitude":"36.021591",
+			"CenterLongitude":"71.751839"
+		},
+		{
+			"RegionID":"849",
+			"RegionName":"Ciudad Juarez, Chihuahua, Mexico",
+			"CenterLatitude":"31.662605",
+			"CenterLongitude":"-106.447495"
+		},
+		{
+			"RegionID":"850",
+			"RegionName":"Jeju, South Korea",
+			"CenterLatitude":"33.513241",
+			"CenterLongitude":"126.527184"
+		},
+		{
+			"RegionID":"851",
+			"RegionName":"Clarksburg, West Virginia, United States of America",
+			"CenterLatitude":"39.293896",
+			"CenterLongitude":"-80.381454"
+		},
+		{
+			"RegionID":"852",
+			"RegionName":"Crooked Creek, Alaska, United States of America",
+			"CenterLatitude":"61.871529",
+			"CenterLongitude":"-158.119370"
+		},
+		{
+			"RegionID":"853",
+			"RegionName":"Chongqing, China",
+			"CenterLatitude":"29.484379",
+			"CenterLongitude":"106.593170"
+		},
+		{
+			"RegionID":"854",
+			"RegionName":"Carajas, Brazil",
+			"CenterLatitude":"-2.953630",
+			"CenterLongitude":"-51.867561"
+		},
+		{
+			"RegionID":"855",
+			"RegionName":"Chicken, Alaska, United States of America",
+			"CenterLatitude":"64.071884",
+			"CenterLongitude":"-141.936432"
+		},
+		{
+			"RegionID":"856",
+			"RegionName":"Conakry, Guinea",
+			"CenterLatitude":"9.611214",
+			"CenterLongitude":"-13.590996"
+		},
+		{
+			"RegionID":"857",
+			"RegionName":"Canakkale, Turkey",
+			"CenterLatitude":"40.050838",
+			"CenterLongitude":"26.488680"
+		},
+		{
+			"RegionID":"859",
+			"RegionName":"Cleveland, Ohio, United States of America",
+			"CenterLatitude":"41.500221",
+			"CenterLongitude":"-81.693573"
+		},
+		{
+			"RegionID":"860",
+			"RegionName":"Cluj-Napoca, Romania",
+			"CenterLatitude":"46.748795",
+			"CenterLongitude":"23.599119"
+		},
+		{
+			"RegionID":"861",
+			"RegionName":"College Station (and vicinity), Texas, United States of America",
+			"CenterLatitude":"30.618309",
+			"CenterLongitude":"-96.345459"
+		},
+		{
+			"RegionID":"862",
+			"RegionName":"Port Angeles, Washington, United States of America",
+			"CenterLatitude":"48.016468",
+			"CenterLongitude":"-123.647324"
+		},
+		{
+			"RegionID":"863",
+			"RegionName":"Cali (and vicinity), Colombia",
+			"CenterLatitude":"3.417272",
+			"CenterLongitude":"-76.539040"
+		},
+		{
+			"RegionID":"864",
+			"RegionName":"Clarks Point, Alaska, United States of America",
+			"CenterLatitude":"58.833725",
+			"CenterLongitude":"-158.554367"
+		},
+		{
+			"RegionID":"865",
+			"RegionName":"Colima (and vicinity), Colima, Mexico",
+			"CenterLatitude":"19.252647",
+			"CenterLongitude":"-103.736526"
+		},
+		{
+			"RegionID":"866",
+			"RegionName":"Charlotte, North Carolina, United States of America",
+			"CenterLatitude":"35.227268",
+			"CenterLongitude":"-80.842957"
+		},
+		{
+			"RegionID":"867",
+			"RegionName":"Calvi, France",
+			"CenterLatitude":"42.567360",
+			"CenterLongitude":"8.758850"
+		},
+		{
+			"RegionID":"868",
+			"RegionName":"Cunnamulla, Queensland, Australia",
+			"CenterLatitude":"-28.059965",
+			"CenterLongitude":"145.712677"
+		},
+		{
+			"RegionID":"869",
+			"RegionName":"Colombo, Sri Lanka",
+			"CenterLatitude":"6.915690",
+			"CenterLongitude":"79.863564"
+		},
+		{
+			"RegionID":"870",
+			"RegionName":"Cootamundra, New South Wales, Australia",
+			"CenterLatitude":"-34.656517",
+			"CenterLongitude":"148.019424"
+		},
+		{
+			"RegionID":"871",
+			"RegionName":"Ciudad del Carmen, Campeche, Mexico",
+			"CenterLatitude":"18.658346",
+			"CenterLongitude":"-91.786575"
+		},
+		{
+			"RegionID":"872",
+			"RegionName":"Chambery, France",
+			"CenterLatitude":"45.566650",
+			"CenterLongitude":"5.920920"
+		},
+		{
+			"RegionID":"873",
+			"RegionName":"Corumba, Brazil",
+			"CenterLatitude":"-19.009562",
+			"CenterLongitude":"-57.646339"
+		},
+		{
+			"RegionID":"874",
+			"RegionName":"Columbus, Ohio, United States of America",
+			"CenterLatitude":"39.961319",
+			"CenterLongitude":"-82.999077"
+		},
+		{
+			"RegionID":"875",
+			"RegionName":"Champaign, Illinois, United States of America",
+			"CenterLatitude":"40.117729",
+			"CenterLongitude":"-88.241982"
+		},
+		{
+			"RegionID":"876",
+			"RegionName":"Qimei, Taiwan",
+			"CenterLatitude":"23.216499",
+			"CenterLongitude":"119.423500"
+		},
+		{
+			"RegionID":"877",
+			"RegionName":"Club Makokola, Mangochi, Malawi",
+			"CenterLatitude":"-14.300994",
+			"CenterLongitude":"35.119350"
+		},
+		{
+			"RegionID":"878",
+			"RegionName":"Clermont, Queensland, Australia",
+			"CenterLatitude":"-22.719803",
+			"CenterLongitude":"147.438293"
+		},
+		{
+			"RegionID":"879",
+			"RegionName":"Kundiawa, Papua New Guinea",
+			"CenterLatitude":"-6.023642",
+			"CenterLongitude":"144.960587"
+		},
+		{
+			"RegionID":"880",
+			"RegionName":"Camaguey, Cuba",
+			"CenterLatitude":"21.375814",
+			"CenterLongitude":"-77.890892"
+		},
+		{
+			"RegionID":"881",
+			"RegionName":"Hancock, Michigan, United States of America",
+			"CenterLatitude":"47.126907",
+			"CenterLongitude":"-88.580612"
+		},
+		{
+			"RegionID":"882",
+			"RegionName":"Coonamble, New South Wales, Australia",
+			"CenterLatitude":"-30.914310",
+			"CenterLongitude":"148.357452"
+		},
+		{
+			"RegionID":"883",
+			"RegionName":"Constanta (and vicinity), Romania",
+			"CenterLatitude":"44.204235",
+			"CenterLongitude":"28.623577"
+		},
+		{
+			"RegionID":"884",
+			"RegionName":"Cloncurry, Queensland, Australia",
+			"CenterLatitude":"-20.525299",
+			"CenterLongitude":"140.449020"
+		},
+		{
+			"RegionID":"885",
+			"RegionName":"Sindal, Denmark",
+			"CenterLatitude":"57.468140",
+			"CenterLongitude":"10.256169"
+		},
+		{
+			"RegionID":"886",
+			"RegionName":"Carlsbad, New Mexico, United States of America",
+			"CenterLatitude":"32.420330",
+			"CenterLongitude":"-104.229004"
+		},
+		{
+			"RegionID":"888",
+			"RegionName":"Corrientes, Argentina",
+			"CenterLatitude":"-27.496693",
+			"CenterLongitude":"-58.774998"
+		},
+		{
+			"RegionID":"889",
+			"RegionName":"Cairns, Queensland, Australia",
+			"CenterLatitude":"-16.922134",
+			"CenterLongitude":"145.775711"
+		},
+		{
+			"RegionID":"892",
+			"RegionName":"Concordia, Argentina",
+			"CenterLatitude":"-31.397402",
+			"CenterLongitude":"-58.017277"
+		},
+		{
+			"RegionID":"893",
+			"RegionName":"Cody, Wyoming, United States of America",
+			"CenterLatitude":"44.526161",
+			"CenterLongitude":"-109.062027"
+		},
+		{
+			"RegionID":"894",
+			"RegionName":"Coeur d'Alene, Idaho, United States of America",
+			"CenterLatitude":"47.674320",
+			"CenterLongitude":"-116.781128"
+		},
+		{
+			"RegionID":"895",
+			"RegionName":"Condoto, Colombia",
+			"CenterLatitude":"5.072724",
+			"CenterLongitude":"-76.629784"
+		},
+		{
+			"RegionID":"896",
+			"RegionName":"Coonabarabran, New South Wales, Australia",
+			"CenterLatitude":"-31.259539",
+			"CenterLongitude":"149.291901"
+		},
+		{
+			"RegionID":"897",
+			"RegionName":"Cochin, India",
+			"CenterLatitude":"9.962697",
+			"CenterLongitude":"76.308563"
+		},
+		{
+			"RegionID":"898",
+			"RegionName":"Cotonou, Benin",
+			"CenterLatitude":"6.359326",
+			"CenterLongitude":"2.447859"
+		},
+		{
+			"RegionID":"899",
+			"RegionName":"Cordoba, Argentina",
+			"CenterLatitude":"-31.418545",
+			"CenterLongitude":"-64.188095"
+		},
+		{
+			"RegionID":"900",
+			"RegionName":"Colorado Springs, Colorado, United States of America",
+			"CenterLatitude":"38.832401",
+			"CenterLongitude":"-104.821671"
+		},
+		{
+			"RegionID":"901",
+			"RegionName":"Columbia (and vicinity), Missouri, United States of America",
+			"CenterLatitude":"38.951550",
+			"CenterLongitude":"-92.328629"
+		},
+		{
+			"RegionID":"902",
+			"RegionName":"Cape Palmas, Liberia",
+			"CenterLatitude":"4.392989",
+			"CenterLongitude":"-7.737037"
+		},
+		{
+			"RegionID":"903",
+			"RegionName":"San Martin de los Andes (and vicinity), Argentina",
+			"CenterLatitude":"-40.155087",
+			"CenterLongitude":"-71.354187"
+		},
+		{
+			"RegionID":"904",
+			"RegionName":"Coober Pedy, South Australia, Australia",
+			"CenterLatitude":"-28.865406",
+			"CenterLongitude":"134.948563"
+		},
+		{
+			"RegionID":"905",
+			"RegionName":"Campeche, Campeche, Mexico",
+			"CenterLatitude":"19.845779",
+			"CenterLongitude":"-90.536781"
+		},
+		{
+			"RegionID":"906",
+			"RegionName":"Copenhagen, Denmark",
+			"CenterLatitude":"55.679672",
+			"CenterLongitude":"12.575681"
+		},
+		{
+			"RegionID":"907",
+			"RegionName":"Copiapo, Chile",
+			"CenterLatitude":"-27.364197",
+			"CenterLongitude":"-70.331566"
+		},
+		{
+			"RegionID":"908",
+			"RegionName":"Campinas, Brazil",
+			"CenterLatitude":"-22.901634",
+			"CenterLongitude":"-47.053413"
+		},
+		{
+			"RegionID":"909",
+			"RegionName":"Casper, Wyoming, United States of America",
+			"CenterLatitude":"42.849770",
+			"CenterLongitude":"-106.325142"
+		},
+		{
+			"RegionID":"910",
+			"RegionName":"Cape Town, South Africa",
+			"CenterLatitude":"-33.922012",
+			"CenterLongitude":"18.423134"
+		},
+		{
+			"RegionID":"911",
+			"RegionName":"Campina Grande, Brazil",
+			"CenterLatitude":"-7.263625",
+			"CenterLongitude":"-35.966026"
+		},
+		{
+			"RegionID":"912",
+			"RegionName":"Culebra, Puerto Rico",
+			"CenterLatitude":"18.315710",
+			"CenterLongitude":"-65.286423"
+		},
+		{
+			"RegionID":"913",
+			"RegionName":"Comodoro Rivadavia, Argentina",
+			"CenterLatitude":"-45.844051",
+			"CenterLongitude":"-67.499428"
+		},
+		{
+			"RegionID":"915",
+			"RegionName":"Corpus Christi (and vicinity), Texas, United States of America",
+			"CenterLatitude":"27.796230",
+			"CenterLongitude":"-97.396347"
+		},
+		{
+			"RegionID":"917",
+			"RegionName":"Charleston, West Virginia, United States of America",
+			"CenterLatitude":"38.349991",
+			"CenterLongitude":"-81.634979"
+		},
+		{
+			"RegionID":"918",
+			"RegionName":"Columbus, Georgia, United States of America",
+			"CenterLatitude":"32.497089",
+			"CenterLongitude":"-84.887024"
+		},
+		{
+			"RegionID":"919",
+			"RegionName":"Casino, New South Wales, Australia",
+			"CenterLatitude":"-28.854176",
+			"CenterLongitude":"153.036575"
+		},
+		{
+			"RegionID":"920",
+			"RegionName":"Cap Skirring, Senegal",
+			"CenterLatitude":"12.395683",
+			"CenterLongitude":"-16.740026"
+		},
+		{
+			"RegionID":"922",
+			"RegionName":"Changsha, China",
+			"CenterLatitude":"28.204533",
+			"CenterLongitude":"113.133347"
+		},
+		{
+			"RegionID":"923",
+			"RegionName":"Cheboksary, Russia",
+			"CenterLatitude":"56.139374",
+			"CenterLongitude":"47.227909"
+		},
+		{
+			"RegionID":"924",
+			"RegionName":"Catania, Italy",
+			"CenterLatitude":"37.502571",
+			"CenterLongitude":"15.087130"
+		},
+		{
+			"RegionID":"925",
+			"RegionName":"Catamarca, Argentina",
+			"CenterLatitude":"-28.528135",
+			"CenterLongitude":"-65.772766"
+		},
+		{
+			"RegionID":"926",
+			"RegionName":"Cartagena (and vicinity), Colombia",
+			"CenterLatitude":"10.423437",
+			"CenterLongitude":"-75.549461"
+		},
+		{
+			"RegionID":"927",
+			"RegionName":"Charleville, Queensland, Australia",
+			"CenterLatitude":"-26.396139",
+			"CenterLongitude":"146.296249"
+		},
+		{
+			"RegionID":"928",
+			"RegionName":"Chetumal, Quintana Roo, Mexico",
+			"CenterLatitude":"18.531031",
+			"CenterLongitude":"-88.308296"
+		},
+		{
+			"RegionID":"929",
+			"RegionName":"Cooktown, Queensland, Australia",
+			"CenterLatitude":"-15.370663",
+			"CenterLongitude":"144.994125"
+		},
+		{
+			"RegionID":"930",
+			"RegionName":"Chengdu, China",
+			"CenterLatitude":"30.660732",
+			"CenterLongitude":"104.063347"
+		},
+		{
+			"RegionID":"931",
+			"RegionName":"Cucuta, Colombia",
+			"CenterLatitude":"7.907297",
+			"CenterLongitude":"-72.509079"
+		},
+		{
+			"RegionID":"932",
+			"RegionName":"Cuenca (and vicinity), Ecuador",
+			"CenterLatitude":"-2.894458",
+			"CenterLongitude":"-78.993050"
+		},
+		{
+			"RegionID":"933",
+			"RegionName":"Culiacan (and vicinity), Sinaloa, Mexico",
+			"CenterLatitude":"24.801111",
+			"CenterLongitude":"-107.458771"
+		},
+		{
+			"RegionID":"934",
+			"RegionName":"Cumana, Venezuela",
+			"CenterLatitude":"10.422836",
+			"CenterLongitude":"-64.168480"
+		},
+		{
+			"RegionID":"935",
+			"RegionName":"Cancun, Quintana Roo, Mexico",
+			"CenterLatitude":"21.163620",
+			"CenterLongitude":"-86.825783"
+		},
+		{
+			"RegionID":"936",
+			"RegionName":"Carupano, Venezuela",
+			"CenterLatitude":"10.659576",
+			"CenterLongitude":"-63.257065"
+		},
+		{
+			"RegionID":"937",
+			"RegionName":"Willemstad, Curacao",
+			"CenterLatitude":"12.116430",
+			"CenterLongitude":"-68.929764"
+		},
+		{
+			"RegionID":"938",
+			"RegionName":"Cutral, Argentina",
+			"CenterLatitude":"-38.924206",
+			"CenterLongitude":"-69.131699"
+		},
+		{
+			"RegionID":"939",
+			"RegionName":"Chihuahua, Chihuahua, Mexico",
+			"CenterLatitude":"28.659489",
+			"CenterLongitude":"-106.059280"
+		},
+		{
+			"RegionID":"940",
+			"RegionName":"Cue, Western Australia, Australia",
+			"CenterLatitude":"-27.448484",
+			"CenterLongitude":"117.887642"
+		},
+		{
+			"RegionID":"941",
+			"RegionName":"Cusco, Peru",
+			"CenterLatitude":"-13.524050",
+			"CenterLongitude":"-71.985794"
+		},
+		{
+			"RegionID":"942",
+			"RegionName":"Cleve, South Australia, Australia",
+			"CenterLatitude":"-33.702953",
+			"CenterLongitude":"136.521988"
+		},
+		{
+			"RegionID":"943",
+			"RegionName":"Cincinnati, Ohio, United States of America",
+			"CenterLatitude":"39.101318",
+			"CenterLongitude":"-84.511353"
+		},
+		{
+			"RegionID":"944",
+			"RegionName":"Cuernavaca, Morelos, Mexico",
+			"CenterLatitude":"18.921225",
+			"CenterLongitude":"-99.234863"
+		},
+		{
+			"RegionID":"945",
+			"RegionName":"Cape Vogel, Papua New Guinea",
+			"CenterLatitude":"-9.706281",
+			"CenterLongitude":"150.045197"
+		},
+		{
+			"RegionID":"946",
+			"RegionName":"Ciudad Victoria, Tamaulipas, Mexico",
+			"CenterLatitude":"23.738852",
+			"CenterLongitude":"-99.145676"
+		},
+		{
+			"RegionID":"947",
+			"RegionName":"Clovis (and vicinity), New Mexico, United States of America",
+			"CenterLatitude":"34.429802",
+			"CenterLongitude":"-103.155159"
+		},
+		{
+			"RegionID":"948",
+			"RegionName":"Corvallis, Oregon, United States of America",
+			"CenterLatitude":"44.563259",
+			"CenterLongitude":"-123.260780"
+		},
+		{
+			"RegionID":"949",
+			"RegionName":"Carnarvon, Western Australia, Australia",
+			"CenterLatitude":"-24.882339",
+			"CenterLongitude":"113.670975"
+		},
+		{
+			"RegionID":"950",
+			"RegionName":"Corvo Island, Portugal",
+			"CenterLatitude":"39.698032",
+			"CenterLongitude":"-31.098225"
+		},
+		{
+			"RegionID":"951",
+			"RegionName":"Curitiba (and vicinity), Brazil",
+			"CenterLatitude":"-25.451778",
+			"CenterLongitude":"-49.233624"
+		},
+		{
+			"RegionID":"952",
+			"RegionName":"Chernovtsy, Ukraine",
+			"CenterLatitude":"48.282307",
+			"CenterLongitude":"25.945471"
+		},
+		{
+			"RegionID":"953",
+			"RegionName":"Cardiff, Wales, United Kingdom",
+			"CenterLatitude":"51.478333",
+			"CenterLongitude":"-3.175630"
+		},
+		{
+			"RegionID":"954",
+			"RegionName":"Center Island, Washington, United States of America",
+			"CenterLatitude":"48.489563",
+			"CenterLongitude":"-122.831528"
+		},
+		{
+			"RegionID":"955",
+			"RegionName":"Cowra, New South Wales, Australia",
+			"CenterLatitude":"-33.827995",
+			"CenterLongitude":"148.609680"
+		},
+		{
+			"RegionID":"956",
+			"RegionName":"Cox's Bazar, Bangladesh",
+			"CenterLatitude":"21.357845",
+			"CenterLongitude":"92.010559"
+		},
+		{
+			"RegionID":"957",
+			"RegionName":"Caxias do Sul, Brazil",
+			"CenterLatitude":"-29.102161",
+			"CenterLongitude":"-51.025383"
+		},
+		{
+			"RegionID":"958",
+			"RegionName":"Cilacap, Indonesia",
+			"CenterLatitude":"-7.699043",
+			"CenterLongitude":"109.031845"
+		},
+		{
+			"RegionID":"960",
+			"RegionName":"Caye Chapel, Belize",
+			"CenterLatitude":"17.692490",
+			"CenterLongitude":"-88.021530"
+		},
+		{
+			"RegionID":"961",
+			"RegionName":"Chefornak, Alaska, United States of America",
+			"CenterLatitude":"60.152859",
+			"CenterLongitude":"-164.268417"
+		},
+		{
+			"RegionID":"962",
+			"RegionName":"Chiayi City, Taiwan",
+			"CenterLatitude":"23.480789",
+			"CenterLongitude":"120.447144"
+		},
+		{
+			"RegionID":"963",
+			"RegionName":"Cheyenne, Wyoming, United States of America",
+			"CenterLatitude":"41.135422",
+			"CenterLongitude":"-104.816994"
+		},
+		{
+			"RegionID":"965",
+			"RegionName":"Coro, Venezuela",
+			"CenterLatitude":"11.398620",
+			"CenterLongitude":"-69.678467"
+		},
+		{
+			"RegionID":"966",
+			"RegionName":"Corozal, Belize",
+			"CenterLatitude":"18.420177",
+			"CenterLongitude":"-88.384705"
+		},
+		{
+			"RegionID":"967",
+			"RegionName":"Constantine, Algeria",
+			"CenterLatitude":"36.328125",
+			"CenterLongitude":"6.604423"
+		},
+		{
+			"RegionID":"969",
+			"RegionName":"Chisana, Alaska, United States of America",
+			"CenterLatitude":"62.897640",
+			"CenterLongitude":"-141.629074"
+		},
+		{
+			"RegionID":"970",
+			"RegionName":"Cruzeiro do Sul, Brazil",
+			"CenterLatitude":"-7.973339",
+			"CenterLongitude":"-72.758026"
+		},
+		{
+			"RegionID":"971",
+			"RegionName":"Changzhou, China",
+			"CenterLatitude":"31.628942",
+			"CenterLongitude":"119.631721"
+		},
+		{
+			"RegionID":"972",
+			"RegionName":"Daytona Beach, Florida, United States of America",
+			"CenterLatitude":"29.212311",
+			"CenterLongitude":"-81.019386"
+		},
+		{
+			"RegionID":"973",
+			"RegionName":"Dhaka, Bangladesh",
+			"CenterLatitude":"23.780607",
+			"CenterLongitude":"90.407959"
+		},
+		{
+			"RegionID":"974",
+			"RegionName":"Da Nang (and vicinity), Vietnam",
+			"CenterLatitude":"16.060760",
+			"CenterLongitude":"108.217041"
+		},
+		{
+			"RegionID":"977",
+			"RegionName":"Danville, Virginia, United States of America",
+			"CenterLatitude":"36.587692",
+			"CenterLongitude":"-79.392624"
+		},
+		{
+			"RegionID":"978",
+			"RegionName":"Dar es Salaam, Tanzania",
+			"CenterLatitude":"-6.821316",
+			"CenterLongitude":"39.283970"
+		},
+		{
+			"RegionID":"979",
+			"RegionName":"Datong, China",
+			"CenterLatitude":"39.895222",
+			"CenterLongitude":"113.710976"
+		},
+		{
+			"RegionID":"980",
+			"RegionName":"Daru, Papua New Guinea",
+			"CenterLatitude":"-9.076698",
+			"CenterLongitude":"143.207916"
+		},
+		{
+			"RegionID":"981",
+			"RegionName":"Dayton, Ohio, United States of America",
+			"CenterLatitude":"39.761009",
+			"CenterLongitude":"-84.192261"
+		},
+		{
+			"RegionID":"982",
+			"RegionName":"Dalbandin, Pakistan",
+			"CenterLatitude":"28.872162",
+			"CenterLongitude":"64.444511"
+		},
+		{
+			"RegionID":"983",
+			"RegionName":"Debra Marcos, Ethiopia",
+			"CenterLatitude":"10.323972",
+			"CenterLongitude":"37.735790"
+		},
+		{
+			"RegionID":"984",
+			"RegionName":"Dubbo, New South Wales, Australia",
+			"CenterLatitude":"-32.279022",
+			"CenterLongitude":"148.601517"
+		},
+		{
+			"RegionID":"985",
+			"RegionName":"Dubuque (and vicinity), Iowa, United States of America",
+			"CenterLatitude":"42.503677",
+			"CenterLongitude":"-90.665657"
+		},
+		{
+			"RegionID":"986",
+			"RegionName":"Dubrovnik, Croatia",
+			"CenterLatitude":"42.640671",
+			"CenterLongitude":"18.110531"
+		},
+		{
+			"RegionID":"987",
+			"RegionName":"Dalby, Queensland, Australia",
+			"CenterLatitude":"-27.182098",
+			"CenterLongitude":"151.265259"
+		},
+		{
+			"RegionID":"988",
+			"RegionName":"Castres, France",
+			"CenterLatitude":"43.605480",
+			"CenterLongitude":"2.241760"
+		},
+		{
+			"RegionID":"989",
+			"RegionName":"Dodge City, Kansas, United States of America",
+			"CenterLatitude":"37.746563",
+			"CenterLongitude":"-100.018684"
+		},
+		{
+			"RegionID":"990",
+			"RegionName":"Dandong, China",
+			"CenterLatitude":"40.529194",
+			"CenterLongitude":"124.391388"
+		},
+		{
+			"RegionID":"992",
+			"RegionName":"Decatur (and vicinity), Illinois, United States of America",
+			"CenterLatitude":"39.841621",
+			"CenterLongitude":"-88.949608"
+		},
+		{
+			"RegionID":"993",
+			"RegionName":"Denis Island, Seychelles",
+			"CenterLatitude":"-3.806183",
+			"CenterLongitude":"55.671528"
+		},
+		{
+			"RegionID":"995",
+			"RegionName":"Dembi Dolo, Ethiopia",
+			"CenterLatitude":"8.521904",
+			"CenterLongitude":"34.805283"
+		},
+		{
+			"RegionID":"996",
+			"RegionName":"Denver, Colorado, United States of America",
+			"CenterLatitude":"39.747921",
+			"CenterLongitude":"-104.995697"
+		},
+		{
+			"RegionID":"997",
+			"RegionName":"Derim, Papua New Guinea",
+			"CenterLatitude":"-6.177594",
+			"CenterLongitude":"144.902847"
+		},
+		{
+			"RegionID":"998",
+			"RegionName":"Desroches Island, Seychelles",
+			"CenterLatitude":"-5.696703",
+			"CenterLongitude":"53.666664"
+		},
+		{
+			"RegionID":"1000",
+			"RegionName":"Dallas, Texas, United States of America",
+			"CenterLatitude":"32.782661",
+			"CenterLongitude":"-96.798439"
+		},
+		{
+			"RegionID":"1001",
+			"RegionName":"Degahbur, Ethiopia",
+			"CenterLatitude":"8.214003",
+			"CenterLongitude":"43.562576"
+		},
+		{
+			"RegionID":"1002",
+			"RegionName":"Mudgee Wine Region, New South Wales, Australia",
+			"CenterLatitude":"-32.572777",
+			"CenterLongitude":"149.592072"
+		},
+		{
+			"RegionID":"1003",
+			"RegionName":"Durango, Durango, Mexico",
+			"CenterLatitude":"24.038519",
+			"CenterLongitude":"-104.661301"
+		},
+		{
+			"RegionID":"1004",
+			"RegionName":"Dumaguete, Philippines",
+			"CenterLatitude":"9.298795",
+			"CenterLongitude":"123.284195"
+		},
+		{
+			"RegionID":"1005",
+			"RegionName":"Dhahran, Saudi Arabia",
+			"CenterLatitude":"26.187336",
+			"CenterLongitude":"50.033554"
+		},
+		{
+			"RegionID":"1006",
+			"RegionName":"Dothan (and vicinity), Alabama, United States of America",
+			"CenterLatitude":"31.223789",
+			"CenterLongitude":"-85.393539"
+		},
+		{
+			"RegionID":"1007",
+			"RegionName":"Dibrugarh, India",
+			"CenterLatitude":"27.478928",
+			"CenterLongitude":"94.908806"
+		},
+		{
+			"RegionID":"1008",
+			"RegionName":"Antsiranana, Madagascar",
+			"CenterLatitude":"-12.291912",
+			"CenterLongitude":"49.341347"
+		},
+		{
+			"RegionID":"1009",
+			"RegionName":"Dijon, France",
+			"CenterLatitude":"47.321369",
+			"CenterLongitude":"5.041420"
+		},
+		{
+			"RegionID":"1010",
+			"RegionName":"Dickinson, North Dakota, United States of America",
+			"CenterLatitude":"46.862534",
+			"CenterLongitude":"-102.810242"
+		},
+		{
+			"RegionID":"1012",
+			"RegionName":"Dien Bien Phu, Vietnam",
+			"CenterLatitude":"21.383499",
+			"CenterLongitude":"103.003502"
+		},
+		{
+			"RegionID":"1013",
+			"RegionName":"Little Diomede Island, Alaska, United States of America",
+			"CenterLatitude":"65.754913",
+			"CenterLongitude":"-168.922470"
+		},
+		{
+			"RegionID":"1014",
+			"RegionName":"Dire Dawa, Ethiopia",
+			"CenterLatitude":"9.584701",
+			"CenterLongitude":"41.869560"
+		},
+		{
+			"RegionID":"1015",
+			"RegionName":"Loubomo, Republic of the Congo",
+			"CenterLatitude":"-4.203549",
+			"CenterLongitude":"12.674997"
+		},
+		{
+			"RegionID":"1016",
+			"RegionName":"Diyarbakir, Turkey",
+			"CenterLatitude":"37.927399",
+			"CenterLongitude":"40.192581"
+		},
+		{
+			"RegionID":"1017",
+			"RegionName":"Jambi, Indonesia",
+			"CenterLatitude":"-1.601048",
+			"CenterLongitude":"103.609314"
+		},
+		{
+			"RegionID":"1018",
+			"RegionName":"Djerba, Tunisia",
+			"CenterLatitude":"33.790062",
+			"CenterLongitude":"10.884918"
+		},
+		{
+			"RegionID":"1019",
+			"RegionName":"Djanet, Algeria",
+			"CenterLatitude":"24.552570",
+			"CenterLongitude":"9.485183"
+		},
+		{
+			"RegionID":"1020",
+			"RegionName":"Jayapura, Indonesia",
+			"CenterLatitude":"-2.568801",
+			"CenterLongitude":"140.696671"
+		},
+		{
+			"RegionID":"1021",
+			"RegionName":"Delta Junction, Alaska, United States of America",
+			"CenterLatitude":"64.039818",
+			"CenterLongitude":"-145.664871"
+		},
+		{
+			"RegionID":"1023",
+			"RegionName":"Dunk Island, Queensland, Cassowary Coast Regional, Australia",
+			"CenterLatitude":"-17.941826",
+			"CenterLongitude":"146.161438"
+		},
+		{
+			"RegionID":"1024",
+			"RegionName":"Dakar, Senegal",
+			"CenterLatitude":"14.719786",
+			"CenterLongitude":"-17.451614"
+		},
+		{
+			"RegionID":"1025",
+			"RegionName":"Douala, Cameroon",
+			"CenterLatitude":"4.020610",
+			"CenterLongitude":"9.761160"
+		},
+		{
+			"RegionID":"1026",
+			"RegionName":"Dalian, China",
+			"CenterLatitude":"39.336414",
+			"CenterLongitude":"122.180206"
+		},
+		{
+			"RegionID":"1027",
+			"RegionName":"Geilo, Hol, Norway",
+			"CenterLatitude":"60.534672",
+			"CenterLongitude":"8.206245"
+		},
+		{
+			"RegionID":"1028",
+			"RegionName":"Dillingham, Alaska, United States of America",
+			"CenterLatitude":"59.041161",
+			"CenterLongitude":"-158.468536"
+		},
+		{
+			"RegionID":"1029",
+			"RegionName":"Duluth (and vicinity), Minnesota, United States of America",
+			"CenterLatitude":"46.788101",
+			"CenterLongitude":"-92.100052"
+		},
+		{
+			"RegionID":"1030",
+			"RegionName":"Da Lat, Vietnam",
+			"CenterLatitude":"11.926084",
+			"CenterLongitude":"108.468140"
+		},
+		{
+			"RegionID":"1031",
+			"RegionName":"Dalaman, Turkey",
+			"CenterLatitude":"36.794098",
+			"CenterLongitude":"28.917479"
+		},
+		{
+			"RegionID":"1032",
+			"RegionName":"Dolomi, Alaska, United States of America",
+			"CenterLatitude":"55.136066",
+			"CenterLongitude":"-132.050980"
+		},
+		{
+			"RegionID":"1033",
+			"RegionName":"Dillons Bay, Vanuatu",
+			"CenterLatitude":"-18.814501",
+			"CenterLongitude":"169.001999"
+		},
+		{
+			"RegionID":"1034",
+			"RegionName":"Doomadgee, Queensland, Australia",
+			"CenterLatitude":"-17.709990",
+			"CenterLongitude":"138.744598"
+		},
+		{
+			"RegionID":"1035",
+			"RegionName":"Dimapur, India",
+			"CenterLatitude":"25.918552",
+			"CenterLongitude":"93.738991"
+		},
+		{
+			"RegionID":"1036",
+			"RegionName":"Dundee, Scotland, United Kingdom",
+			"CenterLatitude":"56.461182",
+			"CenterLongitude":"-2.969160"
+		},
+		{
+			"RegionID":"1039",
+			"RegionName":"Denham, Western Australia, Australia",
+			"CenterLatitude":"-25.924055",
+			"CenterLongitude":"113.550667"
+		},
+		{
+			"RegionID":"1040",
+			"RegionName":"Deniliquin, New South Wales, Australia",
+			"CenterLatitude":"-35.557510",
+			"CenterLongitude":"144.860382"
+		},
+		{
+			"RegionID":"1041",
+			"RegionName":"Dinard, France",
+			"CenterLatitude":"48.633469",
+			"CenterLongitude":"-2.056530"
+		},
+		{
+			"RegionID":"1042",
+			"RegionName":"Danville, Illinois, United States of America",
+			"CenterLatitude":"40.145111",
+			"CenterLongitude":"-87.599876"
+		},
+		{
+			"RegionID":"1043",
+			"RegionName":"Denizli, Turkey",
+			"CenterLatitude":"37.865868",
+			"CenterLongitude":"29.167727"
+		},
+		{
+			"RegionID":"1044",
+			"RegionName":"Doany, Madagascar",
+			"CenterLatitude":"-14.383397",
+			"CenterLongitude":"49.515396"
+		},
+		{
+			"RegionID":"1045",
+			"RegionName":"Dodoma, Tanzania",
+			"CenterLatitude":"-6.172303",
+			"CenterLongitude":"35.732819"
+		},
+		{
+			"RegionID":"1046",
+			"RegionName":"Dora Bay, Alaska, United States of America",
+			"CenterLatitude":"55.214035",
+			"CenterLongitude":"-132.264450"
+		},
+		{
+			"RegionID":"1048",
+			"RegionName":"Doha (and vicinity), Qatar",
+			"CenterLatitude":"25.301210",
+			"CenterLongitude":"51.554523"
+		},
+		{
+			"RegionID":"1049",
+			"RegionName":"Deauville, France",
+			"CenterLatitude":"49.359715",
+			"CenterLongitude":"0.077337"
+		},
+		{
+			"RegionID":"1050",
+			"RegionName":"Roseau, Dominica",
+			"CenterLatitude":"15.298445",
+			"CenterLongitude":"-61.387695"
+		},
+		{
+			"RegionID":"1051",
+			"RegionName":"Dolpa, Nepal",
+			"CenterLatitude":"28.992523",
+			"CenterLongitude":"82.827644"
+		},
+		{
+			"RegionID":"1052",
+			"RegionName":"Dipolog, Philippines",
+			"CenterLatitude":"8.591000",
+			"CenterLongitude":"123.348503"
+		},
+		{
+			"RegionID":"1053",
+			"RegionName":"Devonport, Tasmania, Australia",
+			"CenterLatitude":"-41.175812",
+			"CenterLongitude":"146.353806"
+		},
+		{
+			"RegionID":"1054",
+			"RegionName":"Denpasar, Indonesia",
+			"CenterLatitude":"-8.655615",
+			"CenterLongitude":"115.214478"
+		},
+		{
+			"RegionID":"1055",
+			"RegionName":"Derby, Western Australia, Australia",
+			"CenterLatitude":"-17.378401",
+			"CenterLongitude":"123.693596"
+		},
+		{
+			"RegionID":"1056",
+			"RegionName":"Deering, Alaska, United States of America",
+			"CenterLatitude":"66.070229",
+			"CenterLongitude":"-162.705673"
+		},
+		{
+			"RegionID":"1057",
+			"RegionName":"Durango, Colorado, United States of America",
+			"CenterLatitude":"37.273392",
+			"CenterLongitude":"-107.880615"
+		},
+		{
+			"RegionID":"1058",
+			"RegionName":"Dresden, Germany",
+			"CenterLatitude":"51.051861",
+			"CenterLongitude":"13.740190"
+		},
+		{
+			"RegionID":"1059",
+			"RegionName":"Del Rio, Texas, United States of America",
+			"CenterLatitude":"29.816824",
+			"CenterLongitude":"-100.904732"
+		},
+		{
+			"RegionID":"1060",
+			"RegionName":"Darwin, Northern Territory, Australia",
+			"CenterLatitude":"-12.463880",
+			"CenterLongitude":"130.842422"
+		},
+		{
+			"RegionID":"1061",
+			"RegionName":"Dschang, Cameroon",
+			"CenterLatitude":"5.433815",
+			"CenterLongitude":"10.064569"
+		},
+		{
+			"RegionID":"1063",
+			"RegionName":"Dessie, Ethiopia",
+			"CenterLatitude":"11.133355",
+			"CenterLongitude":"39.626984"
+		},
+		{
+			"RegionID":"1064",
+			"RegionName":"Dera Ismail Khan, Pakistan",
+			"CenterLatitude":"31.819220",
+			"CenterLongitude":"70.907013"
+		},
+		{
+			"RegionID":"1065",
+			"RegionName":"Des Moines, Iowa, United States of America",
+			"CenterLatitude":"41.588112",
+			"CenterLongitude":"-93.616753"
+		},
+		{
+			"RegionID":"1066",
+			"RegionName":"Dortmund (and vicinity), Germany",
+			"CenterLatitude":"51.514000",
+			"CenterLongitude":"7.465370"
+		},
+		{
+			"RegionID":"1067",
+			"RegionName":"Decatur Island, Washington, United States of America",
+			"CenterLatitude":"48.504005",
+			"CenterLongitude":"-122.806000"
+		},
+		{
+			"RegionID":"1068",
+			"RegionName":"Detroit, Michigan, United States of America",
+			"CenterLatitude":"42.331619",
+			"CenterLongitude":"-83.046532"
+		},
+		{
+			"RegionID":"1069",
+			"RegionName":"Dublin, Ireland",
+			"CenterLatitude":"53.344021",
+			"CenterLongitude":"-6.261460"
+		},
+		{
+			"RegionID":"1070",
+			"RegionName":"Dunedin, New Zealand",
+			"CenterLatitude":"-45.874229",
+			"CenterLongitude":"170.503601"
+		},
+		{
+			"RegionID":"1071",
+			"RegionName":"Dundo, Angola",
+			"CenterLatitude":"-7.350324",
+			"CenterLongitude":"20.806616"
+		},
+		{
+			"RegionID":"1072",
+			"RegionName":"DuBois, Pennsylvania, United States of America",
+			"CenterLatitude":"41.119339",
+			"CenterLongitude":"-78.763062"
+		},
+		{
+			"RegionID":"1073",
+			"RegionName":"Durban, South Africa",
+			"CenterLatitude":"-29.859465",
+			"CenterLongitude":"31.024940"
+		},
+		{
+			"RegionID":"1075",
+			"RegionName":"Dutch Harbor, Alaska, United States of America",
+			"CenterLatitude":"53.901417",
+			"CenterLongitude":"-166.533524"
+		},
+		{
+			"RegionID":"1076",
+			"RegionName":"Devils Lake (and vicinity), North Dakota, United States of America",
+			"CenterLatitude":"48.117893",
+			"CenterLongitude":"-98.871445"
+		},
+		{
+			"RegionID":"1077",
+			"RegionName":"Davao (and vicinity), Philippines",
+			"CenterLatitude":"7.083930",
+			"CenterLongitude":"125.610992"
+		},
+		{
+			"RegionID":"1078",
+			"RegionName":"Soalala, Madagascar",
+			"CenterLatitude":"-16.096249",
+			"CenterLongitude":"45.330822"
+		},
+		{
+			"RegionID":"1080",
+			"RegionName":"Dysart, Queensland, Australia",
+			"CenterLatitude":"-22.560549",
+			"CenterLongitude":"148.345703"
+		},
+		{
+			"RegionID":"1081",
+			"RegionName":"Anadyr, Russia",
+			"CenterLatitude":"64.710602",
+			"CenterLongitude":"177.486847"
+		},
+		{
+			"RegionID":"1082",
+			"RegionName":"Dzaoudzi, Mayotte",
+			"CenterLatitude":"-12.786520",
+			"CenterLongitude":"45.281536"
+		},
+		{
+			"RegionID":"1083",
+			"RegionName":"Eagle, Alaska, United States of America",
+			"CenterLatitude":"64.788383",
+			"CenterLongitude":"-141.212540"
+		},
+		{
+			"RegionID":"1084",
+			"RegionName":"Emae, Vanuatu",
+			"CenterLatitude":"-17.069500",
+			"CenterLongitude":"168.379501"
+		},
+		{
+			"RegionID":"1085",
+			"RegionName":"Nejran, Saudi Arabia",
+			"CenterLatitude":"17.525745",
+			"CenterLongitude":"44.206146"
+		},
+		{
+			"RegionID":"1086",
+			"RegionName":"Kearney (and vicinity), Nebraska, United States of America",
+			"CenterLatitude":"40.693478",
+			"CenterLongitude":"-99.083015"
+		},
+		{
+			"RegionID":"1087",
+			"RegionName":"San Sebastian, Spain",
+			"CenterLatitude":"43.322701",
+			"CenterLongitude":"-1.981980"
+		},
+		{
+			"RegionID":"1088",
+			"RegionName":"Wenatchee, Washington, United States of America",
+			"CenterLatitude":"47.412769",
+			"CenterLongitude":"-120.354401"
+		},
+		{
+			"RegionID":"1089",
+			"RegionName":"Eau Claire, Wisconsin, United States of America",
+			"CenterLatitude":"44.811272",
+			"CenterLongitude":"-91.498642"
+		},
+		{
+			"RegionID":"1090",
+			"RegionName":"Elba Island, Italy",
+			"CenterLatitude":"42.771500",
+			"CenterLongitude":"10.292918"
+		},
+		{
+			"RegionID":"1091",
+			"RegionName":"Kampala, Uganda",
+			"CenterLatitude":"0.319133",
+			"CenterLongitude":"32.575573"
+		},
+		{
+			"RegionID":"1093",
+			"RegionName":"El Bagre, Colombia",
+			"CenterLatitude":"7.684744",
+			"CenterLongitude":"-74.656967"
+		},
+		{
+			"RegionID":"1094",
+			"RegionName":"Esbjerg, Denmark",
+			"CenterLatitude":"55.466408",
+			"CenterLongitude":"8.451890"
+		},
+		{
+			"RegionID":"1095",
+			"RegionName":"Ebon, Marshall Islands",
+			"CenterLatitude":"4.628500",
+			"CenterLongitude":"168.699997"
+		},
+		{
+			"RegionID":"1096",
+			"RegionName":"Saint-Etienne, France",
+			"CenterLatitude":"45.441368",
+			"CenterLongitude":"4.386580"
+		},
+		{
+			"RegionID":"1098",
+			"RegionName":"Edna Bay, Alaska, United States of America",
+			"CenterLatitude":"55.972736",
+			"CenterLongitude":"-133.684891"
+		},
+		{
+			"RegionID":"1100",
+			"RegionName":"Edinburgh, Scotland, United Kingdom",
+			"CenterLatitude":"55.951370",
+			"CenterLongitude":"-3.196380"
+		},
+		{
+			"RegionID":"1101",
+			"RegionName":"Eldoret, Kenya",
+			"CenterLatitude":"0.505691",
+			"CenterLongitude":"35.268753"
+		},
+		{
+			"RegionID":"1102",
+			"RegionName":"Pormpuraaw, Queensland, Australia",
+			"CenterLatitude":"-14.695755",
+			"CenterLongitude":"141.754211"
+		},
+		{
+			"RegionID":"1103",
+			"RegionName":"Eek, Alaska, United States of America",
+			"CenterLatitude":"60.214031",
+			"CenterLongitude":"-162.023743"
+		},
+		{
+			"RegionID":"1104",
+			"RegionName":"Keene, New Hampshire, United States of America",
+			"CenterLatitude":"42.933029",
+			"CenterLongitude":"-72.278236"
+		},
+		{
+			"RegionID":"1106",
+			"RegionName":"Bergerac, France",
+			"CenterLatitude":"44.851631",
+			"CenterLongitude":"0.483250"
+		},
+		{
+			"RegionID":"1107",
+			"RegionName":"Sege, Solomon Islands",
+			"CenterLatitude":"-8.573500",
+			"CenterLongitude":"157.871506"
+		},
+		{
+			"RegionID":"1109",
+			"RegionName":"Belgorod, Russia",
+			"CenterLatitude":"50.579964",
+			"CenterLongitude":"36.671024"
+		},
+		{
+			"RegionID":"1110",
+			"RegionName":"Egilsstadir, Iceland",
+			"CenterLatitude":"65.261673",
+			"CenterLongitude":"-14.385170"
+		},
+		{
+			"RegionID":"1111",
+			"RegionName":"Eagle River, Wisconsin, United States of America",
+			"CenterLatitude":"45.915470",
+			"CenterLongitude":"-89.250809"
+		},
+		{
+			"RegionID":"1112",
+			"RegionName":"Egegik, Alaska, United States of America",
+			"CenterLatitude":"58.215179",
+			"CenterLongitude":"-157.351120"
+		},
+		{
+			"RegionID":"1114",
+			"RegionName":"Yeniseysk, Russia",
+			"CenterLatitude":"58.406380",
+			"CenterLongitude":"92.196152"
+		},
+		{
+			"RegionID":"1115",
+			"RegionName":"Eindhoven, Netherlands",
+			"CenterLatitude":"51.438717",
+			"CenterLongitude":"5.474848"
+		},
+		{
+			"RegionID":"1117",
+			"RegionName":"Ein Yahav, Israel",
+			"CenterLatitude":"30.654400",
+			"CenterLongitude":"35.236633"
+		},
+		{
+			"RegionID":"1118",
+			"RegionName":"Barrancabermeja, Colombia",
+			"CenterLatitude":"7.068608",
+			"CenterLongitude":"-73.850189"
+		},
+		{
+			"RegionID":"1119",
+			"RegionName":"Al Wajh, Saudi Arabia",
+			"CenterLatitude":"26.510170",
+			"CenterLongitude":"36.739037"
+		},
+		{
+			"RegionID":"1120",
+			"RegionName":"Elko (and vicinity), Nevada, United States of America",
+			"CenterLatitude":"40.852291",
+			"CenterLongitude":"-115.781807"
+		},
+		{
+			"RegionID":"1122",
+			"RegionName":"El Dorado, Arkansas, United States of America",
+			"CenterLatitude":"33.211899",
+			"CenterLongitude":"-92.663788"
+		},
+		{
+			"RegionID":"1124",
+			"RegionName":"El Golea, Algeria",
+			"CenterLatitude":"30.563190",
+			"CenterLongitude":"2.892792"
+		},
+		{
+			"RegionID":"1126",
+			"RegionName":"Elim, Alaska, United States of America",
+			"CenterLatitude":"64.616653",
+			"CenterLongitude":"-162.255890"
+		},
+		{
+			"RegionID":"1127",
+			"RegionName":"Lephalale, South Africa",
+			"CenterLatitude":"-23.681067",
+			"CenterLongitude":"27.825306"
+		},
+		{
+			"RegionID":"1128",
+			"RegionName":"Elmira (and vicinity), New York, United States of America",
+			"CenterLatitude":"42.087662",
+			"CenterLongitude":"-76.807053"
+		},
+		{
+			"RegionID":"1129",
+			"RegionName":"El Paso (and vicinity), Texas, United States of America",
+			"CenterLatitude":"31.773628",
+			"CenterLongitude":"-106.444389"
+		},
+		{
+			"RegionID":"1130",
+			"RegionName":"Gassim, Saudi Arabia",
+			"CenterLatitude":"26.302286",
+			"CenterLongitude":"43.766624"
+		},
+		{
+			"RegionID":"1131",
+			"RegionName":"East London, South Africa",
+			"CenterLatitude":"-33.014809",
+			"CenterLongitude":"27.903751"
+		},
+		{
+			"RegionID":"1132",
+			"RegionName":"El-Tur, Egypt",
+			"CenterLatitude":"28.239321",
+			"CenterLongitude":"33.619217"
+		},
+		{
+			"RegionID":"1133",
+			"RegionName":"El Oued, Algeria",
+			"CenterLatitude":"33.359287",
+			"CenterLongitude":"6.872759"
+		},
+		{
+			"RegionID":"1134",
+			"RegionName":"Elfin Cove, Alaska, United States of America",
+			"CenterLatitude":"58.190498",
+			"CenterLongitude":"-136.315018"
+		},
+		{
+			"RegionID":"1135",
+			"RegionName":"Ely, Nevada, United States of America",
+			"CenterLatitude":"39.476337",
+			"CenterLongitude":"-114.758209"
+		},
+		{
+			"RegionID":"1137",
+			"RegionName":"Emerald, Queensland, Australia",
+			"CenterLatitude":"-23.517967",
+			"CenterLongitude":"148.180695"
+		},
+		{
+			"RegionID":"1138",
+			"RegionName":"Emirau, Papua New Guinea",
+			"CenterLatitude":"-1.661942",
+			"CenterLongitude":"149.964188"
+		},
+		{
+			"RegionID":"1139",
+			"RegionName":"Emmonak, Alaska, United States of America",
+			"CenterLatitude":"62.781849",
+			"CenterLongitude":"-164.543762"
+		},
+		{
+			"RegionID":"1141",
+			"RegionName":"Emo, Papua New Guinea",
+			"CenterLatitude":"-9.005220",
+			"CenterLongitude":"148.515381"
+		},
+		{
+			"RegionID":"1142",
+			"RegionName":"Embessa, Papua New Guinea",
+			"CenterLatitude":"-9.461605",
+			"CenterLongitude":"148.765564"
+		},
+		{
+			"RegionID":"1143",
+			"RegionName":"El Minya, Egypt",
+			"CenterLatitude":"28.087273",
+			"CenterLongitude":"30.762379"
+		},
+		{
+			"RegionID":"1144",
+			"RegionName":"Kenai, Alaska, United States of America",
+			"CenterLatitude":"60.554070",
+			"CenterLongitude":"-151.259949"
+		},
+		{
+			"RegionID":"1145",
+			"RegionName":"Ende, Indonesia",
+			"CenterLatitude":"-8.848000",
+			"CenterLongitude":"121.656998"
+		},
+		{
+			"RegionID":"1146",
+			"RegionName":"Enontekio, Finland",
+			"CenterLatitude":"68.394775",
+			"CenterLongitude":"23.644726"
+		},
+		{
+			"RegionID":"1147",
+			"RegionName":"Enshi, China",
+			"CenterLatitude":"30.207037",
+			"CenterLongitude":"109.562073"
+		},
+		{
+			"RegionID":"1148",
+			"RegionName":"Enschede, Netherlands",
+			"CenterLatitude":"52.220890",
+			"CenterLongitude":"6.895285"
+		},
+		{
+			"RegionID":"1149",
+			"RegionName":"Eniwetok, Marshall Islands",
+			"CenterLatitude":"11.489000",
+			"CenterLongitude":"162.231995"
+		},
+		{
+			"RegionID":"1150",
+			"RegionName":"Enugu, Nigeria",
+			"CenterLatitude":"6.445542",
+			"CenterLongitude":"7.525794"
+		},
+		{
+			"RegionID":"1151",
+			"RegionName":"Yan'an, China",
+			"CenterLatitude":"36.392971",
+			"CenterLongitude":"109.352043"
+		},
+		{
+			"RegionID":"1152",
+			"RegionName":"Epinal, France",
+			"CenterLatitude":"48.174629",
+			"CenterLongitude":"6.450110"
+		},
+		{
+			"RegionID":"1153",
+			"RegionName":"Esperance, Western Australia, Australia",
+			"CenterLatitude":"-33.860905",
+			"CenterLongitude":"121.891075"
+		},
+		{
+			"RegionID":"1154",
+			"RegionName":"Esquel, Argentina",
+			"CenterLatitude":"-42.833942",
+			"CenterLongitude":"-71.443115"
+		},
+		{
+			"RegionID":"1156",
+			"RegionName":"Erzincan, Turkey",
+			"CenterLatitude":"39.700394",
+			"CenterLongitude":"39.531361"
+		},
+		{
+			"RegionID":"1157",
+			"RegionName":"Erave, Papua New Guinea",
+			"CenterLatitude":"-6.607856",
+			"CenterLongitude":"143.893860"
+		},
+		{
+			"RegionID":"1158",
+			"RegionName":"Erfurt, Germany",
+			"CenterLatitude":"50.978027",
+			"CenterLongitude":"11.028770"
+		},
+		{
+			"RegionID":"1159",
+			"RegionName":"Errachidia, Morocco",
+			"CenterLatitude":"32.041973",
+			"CenterLongitude":"-4.408440"
+		},
+		{
+			"RegionID":"1160",
+			"RegionName":"Erie (and vicinity), Pennsylvania, United States of America",
+			"CenterLatitude":"42.125500",
+			"CenterLongitude":"-80.082588"
+		},
+		{
+			"RegionID":"1161",
+			"RegionName":"Erzurum, Turkey",
+			"CenterLatitude":"39.891609",
+			"CenterLongitude":"41.283627"
+		},
+		{
+			"RegionID":"1162",
+			"RegionName":"Esa'Ala, Papua New Guinea",
+			"CenterLatitude":"-9.738513",
+			"CenterLongitude":"150.806122"
+		},
+		{
+			"RegionID":"1163",
+			"RegionName":"Escanaba (and vicinity), Michigan, United States of America",
+			"CenterLatitude":"45.745750",
+			"CenterLongitude":"-87.064240"
+		},
+		{
+			"RegionID":"1164",
+			"RegionName":"Eastsound, Washington, United States of America",
+			"CenterLatitude":"48.653477",
+			"CenterLongitude":"-122.914886"
+		},
+		{
+			"RegionID":"1165",
+			"RegionName":"Alexandria (and vicinity), Louisiana, United States of America",
+			"CenterLatitude":"31.301270",
+			"CenterLongitude":"-92.495461"
+		},
+		{
+			"RegionID":"1166",
+			"RegionName":"Elista, Russia",
+			"CenterLatitude":"46.321396",
+			"CenterLongitude":"44.198708"
+		},
+		{
+			"RegionID":"1167",
+			"RegionName":"Esmeraldas (and vicinity), Ecuador",
+			"CenterLatitude":"0.920576",
+			"CenterLongitude":"-79.692406"
+		},
+		{
+			"RegionID":"1168",
+			"RegionName":"El Salvador, Chile",
+			"CenterLatitude":"-26.148949",
+			"CenterLongitude":"-69.620506"
+		},
+		{
+			"RegionID":"1169",
+			"RegionName":"Gendawa, Ethiopia",
+			"CenterLatitude":"12.671310",
+			"CenterLongitude":"37.158447"
+		},
+		{
+			"RegionID":"1170",
+			"RegionName":"Eilat (and vicinity), Israel",
+			"CenterLatitude":"29.542320",
+			"CenterLongitude":"34.941566"
+		},
+		{
+			"RegionID":"1172",
+			"RegionName":"Eua, Tonga",
+			"CenterLatitude":"-21.368999",
+			"CenterLongitude":"-174.952499"
+		},
+		{
+			"RegionID":"1173",
+			"RegionName":"Eugene, Oregon, United States of America",
+			"CenterLatitude":"44.049919",
+			"CenterLongitude":"-123.091904"
+		},
+		{
+			"RegionID":"1174",
+			"RegionName":"El Aaiun, Morocco",
+			"CenterLatitude":"27.161160",
+			"CenterLongitude":"-13.203704"
+		},
+		{
+			"RegionID":"1176",
+			"RegionName":"Evenes, Norway",
+			"CenterLatitude":"68.497681",
+			"CenterLongitude":"16.936287"
+		},
+		{
+			"RegionID":"1177",
+			"RegionName":"Sveg, Sweden",
+			"CenterLatitude":"62.074448",
+			"CenterLongitude":"14.291731"
+		},
+		{
+			"RegionID":"1178",
+			"RegionName":"Yerevan, Armenia",
+			"CenterLatitude":"40.196625",
+			"CenterLongitude":"44.522247"
+		},
+		{
+			"RegionID":"1179",
+			"RegionName":"Evansville (and vicinity), Indiana, United States of America",
+			"CenterLatitude":"37.980804",
+			"CenterLongitude":"-87.566765"
+		},
+		{
+			"RegionID":"1180",
+			"RegionName":"New Bedford, Massachusetts, United States of America",
+			"CenterLatitude":"41.635151",
+			"CenterLongitude":"-70.926910"
+		},
+		{
+			"RegionID":"1181",
+			"RegionName":"New Bern, North Carolina, United States of America",
+			"CenterLatitude":"35.111034",
+			"CenterLongitude":"-77.044861"
+		},
+		{
+			"RegionID":"1182",
+			"RegionName":"Ewo, Republic of the Congo",
+			"CenterLatitude":"-0.888862",
+			"CenterLongitude":"14.824050"
+		},
+		{
+			"RegionID":"1183",
+			"RegionName":"Newark, New Jersey, United States of America",
+			"CenterLatitude":"40.735512",
+			"CenterLongitude":"-74.172020"
+		},
+		{
+			"RegionID":"1184",
+			"RegionName":"Excursion Inlet, Alaska, United States of America",
+			"CenterLatitude":"58.428677",
+			"CenterLongitude":"-135.379425"
+		},
+		{
+			"RegionID":"1185",
+			"RegionName":"Exeter, England, United Kingdom",
+			"CenterLatitude":"50.722900",
+			"CenterLongitude":"-3.531980"
+		},
+		{
+			"RegionID":"1187",
+			"RegionName":"Key West, Florida, United States of America",
+			"CenterLatitude":"24.576670",
+			"CenterLongitude":"-81.897430"
+		},
+		{
+			"RegionID":"1188",
+			"RegionName":"Elazig, Turkey",
+			"CenterLatitude":"38.676804",
+			"CenterLongitude":"39.225040"
+		},
+		{
+			"RegionID":"1190",
+			"RegionName":"Fairbanks (and vicinity), Alaska, United States of America",
+			"CenterLatitude":"64.843185",
+			"CenterLongitude":"-147.609848"
+		},
+		{
+			"RegionID":"1191",
+			"RegionName":"Fajardo, Puerto Rico",
+			"CenterLatitude":"18.326082",
+			"CenterLongitude":"-65.657715"
+		},
+		{
+			"RegionID":"1192",
+			"RegionName":"False Island, Sitka, Alaska, United States of America",
+			"CenterLatitude":"57.520386",
+			"CenterLongitude":"-135.181717"
+		},
+		{
+			"RegionID":"1193",
+			"RegionName":"Faro, Portugal",
+			"CenterLatitude":"37.016350",
+			"CenterLongitude":"-7.931420"
+		},
+		{
+			"RegionID":"1194",
+			"RegionName":"Fargo, North Dakota, United States of America",
+			"CenterLatitude":"46.875919",
+			"CenterLongitude":"-96.783150"
+		},
+		{
+			"RegionID":"1195",
+			"RegionName":"Fresno, California, United States of America",
+			"CenterLatitude":"36.734383",
+			"CenterLongitude":"-119.787109"
+		},
+		{
+			"RegionID":"1196",
+			"RegionName":"Fakarava, French Polynesia",
+			"CenterLatitude":"-16.162218",
+			"CenterLongitude":"-145.573242"
+		},
+		{
+			"RegionID":"1197",
+			"RegionName":"Fayetteville, North Carolina, United States of America",
+			"CenterLatitude":"35.053120",
+			"CenterLongitude":"-78.879761"
+		},
+		{
+			"RegionID":"1198",
+			"RegionName":"Lubumbashi, Democratic Republic of the Congo",
+			"CenterLatitude":"-11.667852",
+			"CenterLongitude":"27.474842"
+		},
+		{
+			"RegionID":"1199",
+			"RegionName":"Whitefish (and vicinity), Montana, United States of America",
+			"CenterLatitude":"48.410652",
+			"CenterLongitude":"-114.336670"
+		},
+		{
+			"RegionID":"1200",
+			"RegionName":"Forde, Norway",
+			"CenterLatitude":"61.446716",
+			"CenterLongitude":"6.093263"
+		},
+		{
+			"RegionID":"1202",
+			"RegionName":"Friedrichshafen, Germany",
+			"CenterLatitude":"47.650150",
+			"CenterLongitude":"9.479820"
+		},
+		{
+			"RegionID":"1204",
+			"RegionName":"Fergana, Uzbekistan",
+			"CenterLatitude":"40.382542",
+			"CenterLongitude":"71.808449"
+		},
+		{
+			"RegionID":"1206",
+			"RegionName":"Fergus Falls, Minnesota, United States of America",
+			"CenterLatitude":"46.279503",
+			"CenterLongitude":"-96.091316"
+		},
+		{
+			"RegionID":"1207",
+			"RegionName":"Fort Huachuca, Arizona, United States of America",
+			"CenterLatitude":"31.562321",
+			"CenterLongitude":"-110.388763"
+		},
+		{
+			"RegionID":"1208",
+			"RegionName":"Fishers Island, New York, United States of America",
+			"CenterLatitude":"41.274246",
+			"CenterLongitude":"-71.982292"
+		},
+		{
+			"RegionID":"1209",
+			"RegionName":"Fair Isle, Scotland, United Kingdom",
+			"CenterLatitude":"59.530827",
+			"CenterLongitude":"-1.630367"
+		},
+		{
+			"RegionID":"1210",
+			"RegionName":"Kinshasa, Democratic Republic of the Congo",
+			"CenterLatitude":"-4.329183",
+			"CenterLongitude":"15.331395"
+		},
+		{
+			"RegionID":"1211",
+			"RegionName":"Finschhafen, Papua New Guinea",
+			"CenterLatitude":"-6.598235",
+			"CenterLongitude":"147.852814"
+		},
+		{
+			"RegionID":"1212",
+			"RegionName":"Al-Fujairah, United Arab Emirates",
+			"CenterLatitude":"25.121506",
+			"CenterLongitude":"56.340641"
+		},
+		{
+			"RegionID":"1214",
+			"RegionName":"Franklin, Pennsylvania, United States of America",
+			"CenterLatitude":"41.397869",
+			"CenterLongitude":"-79.830818"
+		},
+		{
+			"RegionID":"1215",
+			"RegionName":"Fak-Fak, Indonesia",
+			"CenterLatitude":"-2.940332",
+			"CenterLongitude":"132.297470"
+		},
+		{
+			"RegionID":"1216",
+			"RegionName":"Fukushima, Japan",
+			"CenterLatitude":"37.785992",
+			"CenterLongitude":"140.388046"
+		},
+		{
+			"RegionID":"1217",
+			"RegionName":"Falls Creek, Victoria, Australia",
+			"CenterLatitude":"-36.873554",
+			"CenterLongitude":"147.246414"
+		},
+		{
+			"RegionID":"1218",
+			"RegionName":"Flagstaff, Arizona, United States of America",
+			"CenterLatitude":"35.198231",
+			"CenterLongitude":"-111.648087"
+		},
+		{
+			"RegionID":"1219",
+			"RegionName":"Fort Lauderdale, Florida, United States of America",
+			"CenterLatitude":"26.120960",
+			"CenterLongitude":"-80.104378"
+		},
+		{
+			"RegionID":"1220",
+			"RegionName":"Florianopolis, Brazil",
+			"CenterLatitude":"-27.598518",
+			"CenterLongitude":"-48.548927"
+		},
+		{
+			"RegionID":"1221",
+			"RegionName":"Florence (and vicinity), South Carolina, United States of America",
+			"CenterLatitude":"34.197201",
+			"CenterLongitude":"-79.768181"
+		},
+		{
+			"RegionID":"1222",
+			"RegionName":"Florence, Italy",
+			"CenterLatitude":"43.770969",
+			"CenterLongitude":"11.255190"
+		},
+		{
+			"RegionID":"1224",
+			"RegionName":"Flat, Alaska, United States of America",
+			"CenterLatitude":"62.455486",
+			"CenterLongitude":"-158.009644"
+		},
+		{
+			"RegionID":"1225",
+			"RegionName":"Santa Cruz, Portugal",
+			"CenterLatitude":"32.675758",
+			"CenterLongitude":"-16.792994"
+		},
+		{
+			"RegionID":"1226",
+			"RegionName":"Formosa, Argentina",
+			"CenterLatitude":"-26.182934",
+			"CenterLongitude":"-58.211987"
+		},
+		{
+			"RegionID":"1228",
+			"RegionName":"Farmington, New Mexico, United States of America",
+			"CenterLatitude":"36.728119",
+			"CenterLongitude":"-108.205467"
+		},
+		{
+			"RegionID":"1229",
+			"RegionName":"Muenster, Germany",
+			"CenterLatitude":"51.962601",
+			"CenterLongitude":"7.625308"
+		},
+		{
+			"RegionID":"1230",
+			"RegionName":"Fort Myers, Florida, United States of America",
+			"CenterLatitude":"26.640350",
+			"CenterLongitude":"-81.872513"
+		},
+		{
+			"RegionID":"1231",
+			"RegionName":"Freetown, Sierra Leone",
+			"CenterLatitude":"8.417259",
+			"CenterLongitude":"-13.232089"
+		},
+		{
+			"RegionID":"1232",
+			"RegionName":"Funchal, Portugal",
+			"CenterLatitude":"32.647926",
+			"CenterLongitude":"-16.909737"
+		},
+		{
+			"RegionID":"1233",
+			"RegionName":"Fane, Papua New Guinea",
+			"CenterLatitude":"-7.157709",
+			"CenterLongitude":"143.507584"
+		},
+		{
+			"RegionID":"1234",
+			"RegionName":"Fincha, Ethiopia",
+			"CenterLatitude":"9.551595",
+			"CenterLongitude":"37.373749"
+		},
+		{
+			"RegionID":"1235",
+			"RegionName":"Nimes, France",
+			"CenterLatitude":"43.838211",
+			"CenterLongitude":"4.356430"
+		},
+		{
+			"RegionID":"1237",
+			"RegionName":"Fort Collins, Colorado, United States of America",
+			"CenterLatitude":"40.588070",
+			"CenterLongitude":"-105.074867"
+		},
+		{
+			"RegionID":"1238",
+			"RegionName":"Flint (and vicinity), Michigan, United States of America",
+			"CenterLatitude":"43.014931",
+			"CenterLongitude":"-83.689636"
+		},
+		{
+			"RegionID":"1239",
+			"RegionName":"Fuzhou, China",
+			"CenterLatitude":"26.000795",
+			"CenterLongitude":"119.284920"
+		},
+		{
+			"RegionID":"1240",
+			"RegionName":"Fort Dodge, Iowa, United States of America",
+			"CenterLatitude":"42.503170",
+			"CenterLongitude":"-94.187012"
+		},
+		{
+			"RegionID":"1241",
+			"RegionName":"Numfoor, Indonesia",
+			"CenterLatitude":"-1.034745",
+			"CenterLongitude":"134.896210"
+		},
+		{
+			"RegionID":"1242",
+			"RegionName":"Fortaleza, Brazil",
+			"CenterLatitude":"-3.726240",
+			"CenterLongitude":"-38.498646"
+		},
+		{
+			"RegionID":"1243",
+			"RegionName":"Fougamou, Gabon",
+			"CenterLatitude":"-1.224647",
+			"CenterLongitude":"10.598203"
+		},
+		{
+			"RegionID":"1244",
+			"RegionName":"Foya, Liberia",
+			"CenterLatitude":"8.354065",
+			"CenterLongitude":"-10.175944"
+		},
+		{
+			"RegionID":"1245",
+			"RegionName":"Freeport, Grand Bahama Island, Bahamas",
+			"CenterLatitude":"26.534290",
+			"CenterLongitude":"-78.695343"
+		},
+		{
+			"RegionID":"1246",
+			"RegionName":"Frankfurt, Germany",
+			"CenterLatitude":"50.108788",
+			"CenterLongitude":"8.665647"
+		},
+		{
+			"RegionID":"1247",
+			"RegionName":"Forbes, New South Wales, Australia",
+			"CenterLatitude":"-33.396744",
+			"CenterLongitude":"148.039673"
+		},
+		{
+			"RegionID":"1248",
+			"RegionName":"Friday Harbor, Washington, United States of America",
+			"CenterLatitude":"48.521461",
+			"CenterLongitude":"-123.072220"
+		},
+		{
+			"RegionID":"1249",
+			"RegionName":"Fera Island, Solomon Islands",
+			"CenterLatitude":"-8.147000",
+			"CenterLongitude":"159.613495"
+		},
+		{
+			"RegionID":"1250",
+			"RegionName":"Fregate Island, Seychelles",
+			"CenterLatitude":"-4.584540",
+			"CenterLongitude":"55.937946"
+		},
+		{
+			"RegionID":"1251",
+			"RegionName":"Fairmont, Minnesota, United States of America",
+			"CenterLatitude":"43.653290",
+			"CenterLongitude":"-94.462257"
+		},
+		{
+			"RegionID":"1252",
+			"RegionName":"Floro, Flora, Norway",
+			"CenterLatitude":"61.596828",
+			"CenterLongitude":"5.042746"
+		},
+		{
+			"RegionID":"1253",
+			"RegionName":"Flores (and vicinity), Guatemala",
+			"CenterLatitude":"16.929157",
+			"CenterLongitude":"-89.865265"
+		},
+		{
+			"RegionID":"1254",
+			"RegionName":"Bishkek, Kyrgyzstan",
+			"CenterLatitude":"42.835022",
+			"CenterLongitude":"74.593765"
+		},
+		{
+			"RegionID":"1255",
+			"RegionName":"Francistown, Botswana",
+			"CenterLatitude":"-21.174610",
+			"CenterLongitude":"27.500223"
+		},
+		{
+			"RegionID":"1256",
+			"RegionName":"Figari, France",
+			"CenterLatitude":"41.513626",
+			"CenterLongitude":"9.118362"
+		},
+		{
+			"RegionID":"1257",
+			"RegionName":"Sioux Falls, South Dakota, United States of America",
+			"CenterLatitude":"43.552456",
+			"CenterLongitude":"-96.749916"
+		},
+		{
+			"RegionID":"1258",
+			"RegionName":"Fort Smith, Arkansas, United States of America",
+			"CenterLatitude":"35.386711",
+			"CenterLongitude":"-94.424286"
+		},
+		{
+			"RegionID":"1259",
+			"RegionName":"Futuna Island, Vanuatu",
+			"CenterLatitude":"-19.531500",
+			"CenterLongitude":"170.215500"
+		},
+		{
+			"RegionID":"1260",
+			"RegionName":"Fort Dauphin, Madagascar",
+			"CenterLatitude":"-25.033585",
+			"CenterLongitude":"46.991337"
+		},
+		{
+			"RegionID":"1261",
+			"RegionName":"Owando, Republic of the Congo",
+			"CenterLatitude":"-0.502478",
+			"CenterLongitude":"15.913561"
+		},
+		{
+			"RegionID":"1262",
+			"RegionName":"Fulleborn, Papua New Guinea",
+			"CenterLatitude":"-6.134979",
+			"CenterLongitude":"150.629578"
+		},
+		{
+			"RegionID":"1263",
+			"RegionName":"Fuerteventura, Spain",
+			"CenterLatitude":"28.398611",
+			"CenterLongitude":"-14.054929"
+		},
+		{
+			"RegionID":"1264",
+			"RegionName":"Fukue Island, Goto, Japan",
+			"CenterLatitude":"32.677692",
+			"CenterLongitude":"128.739426"
+		},
+		{
+			"RegionID":"1265",
+			"RegionName":"Fukuoka (and vicinity), Japan",
+			"CenterLatitude":"33.565540",
+			"CenterLongitude":"130.373734"
+		},
+		{
+			"RegionID":"1266",
+			"RegionName":"Funafuti, Tuvalu",
+			"CenterLatitude":"-8.504000",
+			"CenterLongitude":"179.171997"
+		},
+		{
+			"RegionID":"1267",
+			"RegionName":"Fushun, China",
+			"CenterLatitude":"41.865002",
+			"CenterLongitude":"123.906998"
+		},
+		{
+			"RegionID":"1268",
+			"RegionName":"Fort Wayne, Indiana, United States of America",
+			"CenterLatitude":"41.081390",
+			"CenterLongitude":"-85.138657"
+		},
+		{
+			"RegionID":"1269",
+			"RegionName":"Fuyun, China",
+			"CenterLatitude":"46.991001",
+			"CenterLongitude":"89.523003"
+		},
+		{
+			"RegionID":"1270",
+			"RegionName":"Fort Yukon, Alaska, United States of America",
+			"CenterLatitude":"66.565376",
+			"CenterLongitude":"-145.247116"
+		},
+		{
+			"RegionID":"1271",
+			"RegionName":"Fayetteville, Arkansas, United States of America",
+			"CenterLatitude":"36.062622",
+			"CenterLongitude":"-94.159348"
+		},
+		{
+			"RegionID":"1272",
+			"RegionName":"Gabes, Tunisia",
+			"CenterLatitude":"33.830036",
+			"CenterLongitude":"10.106913"
+		},
+		{
+			"RegionID":"1273",
+			"RegionName":"Yamagata, Japan",
+			"CenterLatitude":"38.247440",
+			"CenterLongitude":"140.330124"
+		},
+		{
+			"RegionID":"1274",
+			"RegionName":"Galena, Alaska, United States of America",
+			"CenterLatitude":"64.745720",
+			"CenterLongitude":"-156.913010"
+		},
+		{
+			"RegionID":"1275",
+			"RegionName":"Gambell, Alaska, United States of America",
+			"CenterLatitude":"63.776333",
+			"CenterLongitude":"-171.712051"
+		},
+		{
+			"RegionID":"1276",
+			"RegionName":"Guantanamo, Cuba",
+			"CenterLatitude":"20.146725",
+			"CenterLongitude":"-75.208130"
+		},
+		{
+			"RegionID":"1278",
+			"RegionName":"Garaina, Papua New Guinea",
+			"CenterLatitude":"-7.887647",
+			"CenterLongitude":"147.133881"
+		},
+		{
+			"RegionID":"1279",
+			"RegionName":"Garissa, Kenya",
+			"CenterLatitude":"-0.448237",
+			"CenterLongitude":"39.670853"
+		},
+		{
+			"RegionID":"1280",
+			"RegionName":"Guwahati, India",
+			"CenterLatitude":"26.151396",
+			"CenterLongitude":"91.718414"
+		},
+		{
+			"RegionID":"1281",
+			"RegionName":"Gamba, Gabon",
+			"CenterLatitude":"-2.654004",
+			"CenterLongitude":"10.008108"
+		},
+		{
+			"RegionID":"1282",
+			"RegionName":"Guasopa, Papua New Guinea",
+			"CenterLatitude":"-9.224859",
+			"CenterLongitude":"152.947525"
+		},
+		{
+			"RegionID":"1283",
+			"RegionName":"Great Bend (and vicinity), Kansas, United States of America",
+			"CenterLatitude":"38.363827",
+			"CenterLongitude":"-98.778793"
+		},
+		{
+			"RegionID":"1284",
+			"RegionName":"Gaborone, Botswana",
+			"CenterLatitude":"-24.671143",
+			"CenterLongitude":"25.876463"
+		},
+		{
+			"RegionID":"1285",
+			"RegionName":"Galesburg (and vicinity), Illinois, United States of America",
+			"CenterLatitude":"40.953354",
+			"CenterLongitude":"-90.362907"
+		},
+		{
+			"RegionID":"1288",
+			"RegionName":"Great Barrier Island, New Zealand",
+			"CenterLatitude":"-36.207169",
+			"CenterLongitude":"175.412033"
+		},
+		{
+			"RegionID":"1289",
+			"RegionName":"Gillette (and vicinity), Wyoming, United States of America",
+			"CenterLatitude":"44.274605",
+			"CenterLongitude":"-105.493980"
+		},
+		{
+			"RegionID":"1290",
+			"RegionName":"Guernsey, Channel Islands, United Kingdom",
+			"CenterLatitude":"49.459320",
+			"CenterLongitude":"-2.582962"
+		},
+		{
+			"RegionID":"1291",
+			"RegionName":"Garden City, Kansas, United States of America",
+			"CenterLatitude":"38.000523",
+			"CenterLongitude":"-100.803726"
+		},
+		{
+			"RegionID":"1294",
+			"RegionName":"Gode, Ethiopia",
+			"CenterLatitude":"5.941455",
+			"CenterLongitude":"43.466579"
+		},
+		{
+			"RegionID":"1295",
+			"RegionName":"Guadalajara (and vicinity), Jalisco, Mexico",
+			"CenterLatitude":"20.677019",
+			"CenterLongitude":"-103.347031"
+		},
+		{
+			"RegionID":"1296",
+			"RegionName":"Gdansk, Poland",
+			"CenterLatitude":"54.349693",
+			"CenterLongitude":"18.652224"
+		},
+		{
+			"RegionID":"1297",
+			"RegionName":"Gondar, Ethiopia",
+			"CenterLatitude":"12.575833",
+			"CenterLongitude":"37.461075"
+		},
+		{
+			"RegionID":"1299",
+			"RegionName":"Glendive, Montana, United States of America",
+			"CenterLatitude":"47.105385",
+			"CenterLongitude":"-104.741150"
+		},
+		{
+			"RegionID":"1300",
+			"RegionName":"Magadan, Russia",
+			"CenterLatitude":"59.557552",
+			"CenterLongitude":"150.746231"
+		},
+		{
+			"RegionID":"1301",
+			"RegionName":"Gelendzhik, Russia",
+			"CenterLatitude":"44.559441",
+			"CenterLongitude":"38.087376"
+		},
+		{
+			"RegionID":"1303",
+			"RegionName":"Spokane, Washington, United States of America",
+			"CenterLatitude":"47.658901",
+			"CenterLongitude":"-117.423500"
+		},
+		{
+			"RegionID":"1304",
+			"RegionName":"Santo Angelo, Brazil",
+			"CenterLatitude":"-28.293621",
+			"CenterLongitude":"-54.256458"
+		},
+		{
+			"RegionID":"1305",
+			"RegionName":"Georgetown, Guyana",
+			"CenterLatitude":"6.811515",
+			"CenterLongitude":"-58.165356"
+		},
+		{
+			"RegionID":"1306",
+			"RegionName":"Nueva Gerona, Cuba",
+			"CenterLatitude":"21.860432",
+			"CenterLongitude":"-82.786354"
+		},
+		{
+			"RegionID":"1307",
+			"RegionName":"Geraldton (and vicinity), Western Australia, Australia",
+			"CenterLatitude":"-28.724257",
+			"CenterLongitude":"114.633759"
+		},
+		{
+			"RegionID":"1308",
+			"RegionName":"Gallivare, Sweden",
+			"CenterLatitude":"67.137924",
+			"CenterLongitude":"20.660835"
+		},
+		{
+			"RegionID":"1309",
+			"RegionName":"Gewoya, Papua New Guinea",
+			"CenterLatitude":"-6.086874",
+			"CenterLongitude":"146.644516"
+		},
+		{
+			"RegionID":"1311",
+			"RegionName":"Griffith, New South Wales, Australia",
+			"CenterLatitude":"-34.280075",
+			"CenterLongitude":"146.045807"
+		},
+		{
+			"RegionID":"1312",
+			"RegionName":"Grand Forks, North Dakota, United States of America",
+			"CenterLatitude":"47.924473",
+			"CenterLongitude":"-97.031525"
+		},
+		{
+			"RegionID":"1313",
+			"RegionName":"Grafton, New South Wales, Australia",
+			"CenterLatitude":"-29.680639",
+			"CenterLongitude":"152.932220"
+		},
+		{
+			"RegionID":"1314",
+			"RegionName":"Longview (and vicinity), Texas, United States of America",
+			"CenterLatitude":"32.494728",
+			"CenterLongitude":"-94.738831"
+		},
+		{
+			"RegionID":"1316",
+			"RegionName":"Gobernador Gregores, Argentina",
+			"CenterLatitude":"-48.814484",
+			"CenterLongitude":"-70.197952"
+		},
+		{
+			"RegionID":"1317",
+			"RegionName":"George Town, Bahamas",
+			"CenterLatitude":"23.505600",
+			"CenterLongitude":"-75.769615"
+		},
+		{
+			"RegionID":"1318",
+			"RegionName":"Glasgow, Montana, United States of America",
+			"CenterLatitude":"48.207634",
+			"CenterLongitude":"-106.620132"
+		},
+		{
+			"RegionID":"1319",
+			"RegionName":"Ghardaia, Algeria",
+			"CenterLatitude":"32.481499",
+			"CenterLongitude":"3.699368"
+		},
+		{
+			"RegionID":"1320",
+			"RegionName":"Governor's Harbour, Eleuthera Island, Bahamas",
+			"CenterLatitude":"25.192205",
+			"CenterLongitude":"-76.245621"
+		},
+		{
+			"RegionID":"1321",
+			"RegionName":"Great Harbour Cay, Berry Islands, Bahamas",
+			"CenterLatitude":"25.726620",
+			"CenterLongitude":"-77.843513"
+		},
+		{
+			"RegionID":"1322",
+			"RegionName":"Ghimbi, Ethiopia",
+			"CenterLatitude":"9.167213",
+			"CenterLongitude":"35.842930"
+		},
+		{
+			"RegionID":"1324",
+			"RegionName":"Ghat, Libya",
+			"CenterLatitude":"24.950878",
+			"CenterLongitude":"10.179930"
+		},
+		{
+			"RegionID":"1325",
+			"RegionName":"Gibraltar, Gibraltar",
+			"CenterLatitude":"36.140091",
+			"CenterLongitude":"-5.353500"
+		},
+		{
+			"RegionID":"1326",
+			"RegionName":"Gilgit, Pakistan",
+			"CenterLatitude":"35.913280",
+			"CenterLongitude":"74.327919"
+		},
+		{
+			"RegionID":"1327",
+			"RegionName":"Gisborne, New Zealand",
+			"CenterLatitude":"-38.666428",
+			"CenterLongitude":"178.026001"
+		},
+		{
+			"RegionID":"1328",
+			"RegionName":"Giyani, South Africa",
+			"CenterLatitude":"-23.313656",
+			"CenterLongitude":"30.725092"
+		},
+		{
+			"RegionID":"1329",
+			"RegionName":"Gizan, Saudi Arabia",
+			"CenterLatitude":"16.903210",
+			"CenterLongitude":"42.580524"
+		},
+		{
+			"RegionID":"1330",
+			"RegionName":"Jijel, Algeria",
+			"CenterLatitude":"36.798992",
+			"CenterLongitude":"5.796451"
+		},
+		{
+			"RegionID":"1331",
+			"RegionName":"Grand Junction (and vicinity), Colorado, United States of America",
+			"CenterLatitude":"39.067329",
+			"CenterLongitude":"-108.564491"
+		},
+		{
+			"RegionID":"1332",
+			"RegionName":"Goroka, Papua New Guinea",
+			"CenterLatitude":"-6.077000",
+			"CenterLongitude":"145.388504"
+		},
+		{
+			"RegionID":"1333",
+			"RegionName":"Great Keppel Island, Queensland, Australia",
+			"CenterLatitude":"-23.177397",
+			"CenterLongitude":"150.952789"
+		},
+		{
+			"RegionID":"1334",
+			"RegionName":"Glasgow, Scotland, United Kingdom",
+			"CenterLatitude":"55.861179",
+			"CenterLongitude":"-4.250200"
+		},
+		{
+			"RegionID":"1335",
+			"RegionName":"Geladi, Ethiopia",
+			"CenterLatitude":"6.966033",
+			"CenterLongitude":"46.420361"
+		},
+		{
+			"RegionID":"1336",
+			"RegionName":"Goodland, Kansas, United States of America",
+			"CenterLatitude":"39.348061",
+			"CenterLongitude":"-101.711761"
+		},
+		{
+			"RegionID":"1337",
+			"RegionName":"Greenville, Mississippi, United States of America",
+			"CenterLatitude":"33.367767",
+			"CenterLongitude":"-91.017548"
+		},
+		{
+			"RegionID":"1338",
+			"RegionName":"Glen Innes, New South Wales, Australia",
+			"CenterLatitude":"-29.721708",
+			"CenterLongitude":"151.706375"
+		},
+		{
+			"RegionID":"1340",
+			"RegionName":"Goulimime, Morocco",
+			"CenterLatitude":"28.978140",
+			"CenterLongitude":"-10.062503"
+		},
+		{
+			"RegionID":"1341",
+			"RegionName":"Galveston (and vicinity), Texas, United States of America",
+			"CenterLatitude":"29.305780",
+			"CenterLongitude":"-94.792542"
+		},
+		{
+			"RegionID":"1342",
+			"RegionName":"Gladstone, Queensland, Australia",
+			"CenterLatitude":"-23.842649",
+			"CenterLongitude":"151.248856"
+		},
+		{
+			"RegionID":"1343",
+			"RegionName":"Golovin, Alaska, United States of America",
+			"CenterLatitude":"64.544273",
+			"CenterLongitude":"-163.033386"
+		},
+		{
+			"RegionID":"1345",
+			"RegionName":"Gambela, Ethiopia",
+			"CenterLatitude":"8.244863",
+			"CenterLongitude":"34.594200"
+		},
+		{
+			"RegionID":"1346",
+			"RegionName":"Gomel, Belarus",
+			"CenterLatitude":"52.428444",
+			"CenterLongitude":"30.993532"
+		},
+		{
+			"RegionID":"1347",
+			"RegionName":"Gasmata, Papua New Guinea",
+			"CenterLatitude":"-6.273821",
+			"CenterLongitude":"150.328537"
+		},
+		{
+			"RegionID":"1348",
+			"RegionName":"Grenoble, France",
+			"CenterLatitude":"45.192490",
+			"CenterLongitude":"5.731160"
+		},
+		{
+			"RegionID":"1351",
+			"RegionName":"General Roca, Argentina",
+			"CenterLatitude":"-39.025856",
+			"CenterLongitude":"-67.602654"
+		},
+		{
+			"RegionID":"1352",
+			"RegionName":"Goodnews Bay, Alaska, United States of America",
+			"CenterLatitude":"59.122379",
+			"CenterLongitude":"-161.588013"
+		},
+		{
+			"RegionID":"1353",
+			"RegionName":"Gainesville, Florida, United States of America",
+			"CenterLatitude":"29.651939",
+			"CenterLongitude":"-82.325043"
+		},
+		{
+			"RegionID":"1354",
+			"RegionName":"Ghanzi, Botswana",
+			"CenterLatitude":"-21.680584",
+			"CenterLongitude":"21.626020"
+		},
+		{
+			"RegionID":"1355",
+			"RegionName":"Genoa, Italy",
+			"CenterLatitude":"44.407082",
+			"CenterLongitude":"8.933810"
+		},
+		{
+			"RegionID":"1356",
+			"RegionName":"Goba, Ethiopia",
+			"CenterLatitude":"6.998338",
+			"CenterLongitude":"39.979511"
+		},
+		{
+			"RegionID":"1359",
+			"RegionName":"Nuuk, Greenland",
+			"CenterLatitude":"64.173767",
+			"CenterLongitude":"-51.695400"
+		},
+		{
+			"RegionID":"1361",
+			"RegionName":"Nizhny Novgorod (and vicinity), Russia",
+			"CenterLatitude":"56.326530",
+			"CenterLongitude":"44.005306"
+		},
+		{
+			"RegionID":"1363",
+			"RegionName":"New London, Connecticut, United States of America",
+			"CenterLatitude":"41.355320",
+			"CenterLongitude":"-72.099411"
+		},
+		{
+			"RegionID":"1364",
+			"RegionName":"Goondiwindi, Queensland, Australia",
+			"CenterLatitude":"-28.546829",
+			"CenterLongitude":"150.306351"
+		},
+		{
+			"RegionID":"1365",
+			"RegionName":"Gore, Ethiopia",
+			"CenterLatitude":"8.140333",
+			"CenterLongitude":"35.552280"
+		},
+		{
+			"RegionID":"1366",
+			"RegionName":"Gothenburg (and vicinity), Sweden",
+			"CenterLatitude":"57.704418",
+			"CenterLongitude":"11.969090"
+		},
+		{
+			"RegionID":"1367",
+			"RegionName":"Garoua, Cameroon",
+			"CenterLatitude":"9.295120",
+			"CenterLongitude":"13.398078"
+		},
+		{
+			"RegionID":"1369",
+			"RegionName":"Guapi, Colombia",
+			"CenterLatitude":"2.571932",
+			"CenterLongitude":"-77.871933"
+		},
+		{
+			"RegionID":"1372",
+			"RegionName":"Gulfport, Mississippi, United States of America",
+			"CenterLatitude":"30.368141",
+			"CenterLongitude":"-89.092911"
+		},
+		{
+			"RegionID":"1373",
+			"RegionName":"Grand Rapids (and vicinity), Minnesota, United States of America",
+			"CenterLatitude":"47.198433",
+			"CenterLongitude":"-93.520439"
+		},
+		{
+			"RegionID":"1374",
+			"RegionName":"Green Bay (and vicinity), Wisconsin, United States of America",
+			"CenterLatitude":"44.512390",
+			"CenterLongitude":"-88.010437"
+		},
+		{
+			"RegionID":"1375",
+			"RegionName":"Grand Cess, Liberia",
+			"CenterLatitude":"4.594263",
+			"CenterLongitude":"-8.247647"
+		},
+		{
+			"RegionID":"1376",
+			"RegionName":"Grand Island (and vicinity), Nebraska, United States of America",
+			"CenterLatitude":"40.924492",
+			"CenterLongitude":"-98.343117"
+		},
+		{
+			"RegionID":"1377",
+			"RegionName":"George, South Africa",
+			"CenterLatitude":"-33.983482",
+			"CenterLongitude":"22.427902"
+		},
+		{
+			"RegionID":"1378",
+			"RegionName":"Garasa, Papua New Guinea",
+			"CenterLatitude":"-7.979265",
+			"CenterLongitude":"147.212158"
+		},
+		{
+			"RegionID":"1379",
+			"RegionName":"Girona, Spain",
+			"CenterLatitude":"41.981842",
+			"CenterLongitude":"2.823390"
+		},
+		{
+			"RegionID":"1380",
+			"RegionName":"Gurupi, Brazil",
+			"CenterLatitude":"-11.720809",
+			"CenterLongitude":"-49.078693"
+		},
+		{
+			"RegionID":"1381",
+			"RegionName":"Groningen, Netherlands",
+			"CenterLatitude":"53.218693",
+			"CenterLongitude":"6.567641"
+		},
+		{
+			"RegionID":"1382",
+			"RegionName":"Grand Rapids, Michigan, United States of America",
+			"CenterLatitude":"42.966351",
+			"CenterLongitude":"-85.672096"
+		},
+		{
+			"RegionID":"1383",
+			"RegionName":"Graciosa Island, Portugal",
+			"CenterLatitude":"39.052399",
+			"CenterLongitude":"-28.005827"
+		},
+		{
+			"RegionID":"1384",
+			"RegionName":"Granada, Spain",
+			"CenterLatitude":"37.173531",
+			"CenterLongitude":"-3.599550"
+		},
+		{
+			"RegionID":"1385",
+			"RegionName":"Graz, Austria",
+			"CenterLatitude":"47.070938",
+			"CenterLongitude":"15.438789"
+		},
+		{
+			"RegionID":"1386",
+			"RegionName":"Long Pasia, Kota Kinabatangan, Malaysia",
+			"CenterLatitude":"5.338000",
+			"CenterLongitude":"117.169502"
+		},
+		{
+			"RegionID":"1387",
+			"RegionName":"Greensboro, North Carolina, United States of America",
+			"CenterLatitude":"36.072517",
+			"CenterLongitude":"-79.791512"
+		},
+		{
+			"RegionID":"1388",
+			"RegionName":"Greenville, South Carolina, Usa",
+			"CenterLatitude":"34.850792",
+			"CenterLongitude":"-82.398926"
+		}
+	]
+}
